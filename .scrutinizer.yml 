@@ -13,6 +13,14 @@ build:
         xdebug.mode: coverage
 
   nodes:
+    coverage:
+      tests:
+        override:
+          - command: ./vendor/bin/phpunit --coverage-clover ./coverage.xml
+            coverage:
+              file: ./build/logs/coverage.xml
+              format: clover
+
     analysis:
       tests:
         override:
