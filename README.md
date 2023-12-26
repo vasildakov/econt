@@ -18,3 +18,29 @@ Using Composer:
 ```
 $ composer require vasildakov/econt
 ```
+
+## Usage
+
+```php 
+
+<?php
+
+declare(strict_types=1);
+
+use VasilDakov\Econt\Econt;
+use GuzzleHttp\Client;
+use Laminas\Diactoros\RequestFactory;
+
+/** @var Configuration $configuration */
+$configuration = new Configuration('username', 'password');
+
+/** @var \Psr\Http\Client\ClientInterface $client */
+$client = new Client();
+
+/** @var \Psr\Http\Message\RequestFactoryInterface $factory */
+$factory = new RequestFactory();
+
+$econt = new Econt($configuration, $client, $factory);
+
+var_dump($econt->getClientProfiles());
+```
