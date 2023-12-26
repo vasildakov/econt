@@ -1,8 +1,16 @@
 {
     "name": "vasildakov/econt",
     "description": "Econt API Client",
+    "keywords": ["api", "econt", "ekont", "shipping"],
     "type": "library",
+    "authors": [
+        {
+            "name": "Vasil Dakov",
+            "email": "vasildakov@gmail.com"
+        }
+    ],
     "require": {
+        "php": "~8.0 || ~8.1 || ~8.2 || ~8.3",
         "psr/http-message": "^2.0",
         "psr/http-factory": "^1.0",
         "psr/http-client": "^1.0",
@@ -38,13 +46,19 @@
             "test/"
         ]
     },
-    "authors": [
-        {
-            "name": "Vasil Dakov",
-            "email": "vasildakov@gmail.com"
-        }
-    ],
+    "scripts": {
+        "test": "./vendor/bin/phpunit",
+        "test-coverage": "./vendor/bin/phpunit --coverage-html ./build/coverage",
+        "cs-check": "vendor/bin/phpcs",
+        "cs-fix": "vendor/bin/phpcbf",
+        "static-analysis": "vendor/bin/psalm --shepherd --stats"
+    },
     "config": {
+        "platform": {
+            "php": "8.1.0"
+        },
+        "optimize-autoloader": true,
+        "sort-packages": true,
         "allow-plugins": {
             "php-http/discovery": true
         }
