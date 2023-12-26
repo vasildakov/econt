@@ -19,7 +19,7 @@ build:
           - command: ./vendor/bin/phpunit --coverage-clover ./coverage.xml
             coverage:
               file: ./build/logs/coverage.xml
-              format: clover
+              format: php-clover
 
     analysis:
       tests:
