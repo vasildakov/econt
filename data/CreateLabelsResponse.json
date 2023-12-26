@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "label": {
+        "shipmentNumber": null,
+        "storageOfficeName": null,
+        "storagePersonName": null,
+        "createdTime": 1524123599000,
+        "sendTime": null,
+        "deliveryTime": null,
+        "shipmentType": "post_pack",
+        "packCount": 1,
+        "weight": 2,
+        "shipmentDescription": "маратонки",
+        "senderDeliveryType": null,
+        "senderClient": null,
+        "senderAgent": null,
+        "senderOfficeCode": null,
+        "senderAddress": null,
+        "receiverDeliveryType": null,
+        "receiverClient": null,
+        "receiverAgent": null,
+        "receiverOfficeCode": null,
+        "receiverAddress": null,
+        "cdCollectedAmount": 0,
+        "cdCollectedCurrency": "",
+        "cdCollectedTime": null,
+        "cdPaidAmount": 0,
+        "cdPaidCurrency": "",
+        "cdPaidTime": null,
+        "totalPrice": 4.4,
+        "currency": "BGN",
+        "discountPercent": 0,
+        "discountAmount": -0,
+        "discountDescription": "",
+        "senderDueAmount": 4.4,
+        "receiverDueAmount": 0,
+        "otherDueAmount": 0,
+        "deliveryAttemptCount": 0,
+        "previousShipmentNumber": "",
+        "services": [
+          {
+            "type": "C",
+            "description": "пощенски колет над 1 кг",
+            "count": 1,
+            "paymentSide": "SENDER",
+            "price": 4.4,
+            "currency": "BGN"
+          }
+        ],
+        "nextShipments": [
+
+        ],
+        "trackingEvents": [
+
+        ],
+        "pdfURL": "",
+        "expectedDeliveryDate": 1524171600000
+      },
+      "error": null
+    },
+    {
+      "label": {
+        "shipmentNumber": null,
+        "storageOfficeName": null,
+        "storagePersonName": null,
+        "createdTime": 1524123599000,
+        "sendTime": null,
+        "deliveryTime": null,
+        "shipmentType": "pack",
+        "packCount": 1,
+        "weight": 5,
+        "shipmentDescription": "дънки",
+        "senderDeliveryType": null,
+        "senderClient": null,
+        "senderAgent": null,
+        "senderOfficeCode": null,
+        "senderAddress": null,
+        "receiverDeliveryType": null,
+        "receiverClient": null,
+        "receiverAgent": null,
+        "receiverOfficeCode": null,
+        "receiverAddress": null,
+        "cdCollectedAmount": 0,
+        "cdCollectedCurrency": "",
+        "cdCollectedTime": null,
+        "cdPaidAmount": 0,
+        "cdPaidCurrency": "",
+        "cdPaidTime": null,
+        "totalPrice": 11.4,
+        "currency": "BGN",
+        "discountPercent": 0,
+        "discountAmount": -0,
+        "discountDescription": "",
+        "senderDueAmount": 11.4,
+        "receiverDueAmount": 0,
+        "otherDueAmount": 0,
+        "deliveryAttemptCount": 0,
+        "previousShipmentNumber": "",
+        "services": [
+          {
+            "type": "C",
+            "description": "Куриерска услуга - врата / врата до 5 кг",
+            "count": 1,
+            "paymentSide": "SENDER",
+            "price": 11.4,
+            "currency": "BGN"
+          }
+        ],
+        "nextShipments": [
+
+        ],
+        "trackingEvents": [
+
+        ],
+        "pdfURL": "",
+        "expectedDeliveryDate": 1524171600000
+      },
+      "error": null
+    }
+  ]
+}

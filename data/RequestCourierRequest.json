@@ -1,0 +1,23 @@
+{
+  "requestTimeFrom": "2018-04-19 16:00:00",
+  "requestTimeTo": "2018-04-19 17:00:00",
+  "shipmentType": "PACK",
+  "shipmentPackCount": "1",
+  "shipmentWeight": "2",
+  "senderClient": {
+    "name": "Иван Иванов",
+    "phones": [
+      "0888888888"
+    ]
+  },
+  "senderAddress": {
+    "city": {
+      "country": {
+        "code3": "BGR"
+      },
+      "postCode": "7012",
+      "name": "Русе"
+    },
+    "fullAddress": "Алея Младост 7"
+  }
+}

@@ -1,0 +1,1072 @@
+{
+  "streets": [
+    {
+      "id": 6127,
+      "cityID": 46,
+      "name": "ул. Пейо К.Яворов",
+      "nameEn": "ul. Peyo K.YAvorov"
+    },
+    {
+      "id": 6128,
+      "cityID": 46,
+      "name": "пл. Съединение",
+      "nameEn": "pl. Syedinenie"
+    },
+    {
+      "id": 6129,
+      "cityID": 46,
+      "name": "ул. Генерал Столетов",
+      "nameEn": "ul. General Stoletov"
+    },
+    {
+      "id": 6130,
+      "cityID": 46,
+      "name": "ул. Ангел П.Стоянов",
+      "nameEn": "ul. Angel P.Stoyanov"
+    },
+    {
+      "id": 6133,
+      "cityID": 46,
+      "name": "ул. Антон Иванов",
+      "nameEn": "ul. Anton Ivanov"
+    },
+    {
+      "id": 6134,
+      "cityID": 46,
+      "name": "ул. Арда",
+      "nameEn": "ul. Arda"
+    },
+    {
+      "id": 6135,
+      "cityID": 46,
+      "name": "ул. Байкал",
+      "nameEn": "ul. Baykal"
+    },
+    {
+      "id": 6136,
+      "cityID": 46,
+      "name": "ул. Бенковски",
+      "nameEn": "ul. Benkovski"
+    },
+    {
+      "id": 6137,
+      "cityID": 46,
+      "name": "жк.Младост",
+      "nameEn": "zhk.Mladost"
+    },
+    {
+      "id": 6138,
+      "cityID": 46,
+      "name": "ул. Богомилска",
+      "nameEn": "ul. Bogomilska"
+    },
+    {
+      "id": 6139,
+      "cityID": 46,
+      "name": "ул. Бор",
+      "nameEn": "ul. Bor"
+    },
+    {
+      "id": 6140,
+      "cityID": 46,
+      "name": "ул. Братя Даскалови",
+      "nameEn": "ul. Bratya Daskalovi"
+    },
+    {
+      "id": 6141,
+      "cityID": 46,
+      "name": "ул. Братя Миладинови",
+      "nameEn": "ul. Bratya Miladinovi"
+    },
+    {
+      "id": 6142,
+      "cityID": 46,
+      "name": "ул. Братя Павлови",
+      "nameEn": "ul. Bratya Pavlovi"
+    },
+    {
+      "id": 6143,
+      "cityID": 46,
+      "name": "ул. Бреза",
+      "nameEn": "ul. Breza"
+    },
+    {
+      "id": 6144,
+      "cityID": 46,
+      "name": "ул. Бузлуджански конгрес",
+      "nameEn": "ul. Buzludzhanski kongres"
+    },
+    {
+      "id": 6145,
+      "cityID": 46,
+      "name": "ул. Бъдеще",
+      "nameEn": "ul. Bydeshte"
+    },
+    {
+      "id": 6146,
+      "cityID": 46,
+      "name": "ул. Васил Калчев",
+      "nameEn": "ul. Vasil Kalchev"
+    },
+    {
+      "id": 6147,
+      "cityID": 46,
+      "name": "ул. Васил Левски",
+      "nameEn": "ul. Vasil Levski"
+    },
+    {
+      "id": 6148,
+      "cityID": 46,
+      "name": "ул. Вит",
+      "nameEn": "ul. Vit"
+    },
+    {
+      "id": 6149,
+      "cityID": 46,
+      "name": "ул. Вичо Павлов",
+      "nameEn": "ul. Vicho Pavlov"
+    },
+    {
+      "id": 6150,
+      "cityID": 46,
+      "name": "ул. Волга",
+      "nameEn": "ul. Volga"
+    },
+    {
+      "id": 6151,
+      "cityID": 46,
+      "name": "ул. Васил Тилев",
+      "nameEn": "ul. Vasil Tilev"
+    },
+    {
+      "id": 6152,
+      "cityID": 46,
+      "name": "ул. Вълко и КабаИван",
+      "nameEn": "ul. Vylko i KabaIvan"
+    },
+    {
+      "id": 6153,
+      "cityID": 46,
+      "name": "ул. Гео Милев",
+      "nameEn": "ul. Geo Milev"
+    },
+    {
+      "id": 6154,
+      "cityID": 46,
+      "name": "ул. Градинарска",
+      "nameEn": "ul. Gradinarska"
+    },
+    {
+      "id": 6155,
+      "cityID": 46,
+      "name": "ул. Гурко",
+      "nameEn": "ul. Gurko"
+    },
+    {
+      "id": 6156,
+      "cityID": 46,
+      "name": "ул. Дерменка",
+      "nameEn": "ul. Dermenka"
+    },
+    {
+      "id": 6157,
+      "cityID": 46,
+      "name": "ул. Димитър Благоев",
+      "nameEn": "ul. Dimityr Blagoev"
+    },
+    {
+      "id": 6158,
+      "cityID": 46,
+      "name": "ул. Димчо Дебелянов",
+      "nameEn": "ul. Dimcho Debelyanov"
+    },
+    {
+      "id": 6159,
+      "cityID": 46,
+      "name": "ул. Дянко Накев",
+      "nameEn": "ul. Dyanko Nakev"
+    },
+    {
+      "id": 6160,
+      "cityID": 46,
+      "name": "ул. Добруджа",
+      "nameEn": "ul. Dobrudzha"
+    },
+    {
+      "id": 6161,
+      "cityID": 46,
+      "name": "ул. Дунав",
+      "nameEn": "ul. Dunav"
+    },
+    {
+      "id": 6162,
+      "cityID": 46,
+      "name": "ул. Д-р Петър Генов",
+      "nameEn": "ul. D-r Petyr Genov"
+    },
+    {
+      "id": 6163,
+      "cityID": 46,
+      "name": "ул. Дружба",
+      "nameEn": "ul. Druzhba"
+    },
+    {
+      "id": 6164,
+      "cityID": 46,
+      "name": "ул. Душо хаджи Деков",
+      "nameEn": "ul. Dusho hadzhi Dekov"
+    },
+    {
+      "id": 6165,
+      "cityID": 46,
+      "name": "ул. Дъбрава",
+      "nameEn": "ul. Dybrava"
+    },
+    {
+      "id": 6166,
+      "cityID": 46,
+      "name": "ул. Дянко Нанчев",
+      "nameEn": "ul. Dyanko Nanchev"
+    },
+    {
+      "id": 6167,
+      "cityID": 46,
+      "name": "ул. Еделвайс",
+      "nameEn": "ul. Edelvays"
+    },
+    {
+      "id": 6168,
+      "cityID": 46,
+      "name": "ул. Единство",
+      "nameEn": "ul. Edinstvo"
+    },
+    {
+      "id": 6169,
+      "cityID": 46,
+      "name": "ул. Ернст Телман",
+      "nameEn": "ul. Ernst Telman"
+    },
+    {
+      "id": 6170,
+      "cityID": 46,
+      "name": "ул. Зора",
+      "nameEn": "ul. Zora"
+    },
+    {
+      "id": 6171,
+      "cityID": 46,
+      "name": "ул. Зоя Космодемянска",
+      "nameEn": "ul. Zoya Kosmodemyanska"
+    },
+    {
+      "id": 6172,
+      "cityID": 46,
+      "name": "ул. Зюмбюлюка",
+      "nameEn": "ul. Zyumbyulyuka"
+    },
+    {
+      "id": 6173,
+      "cityID": 46,
+      "name": "ул. Ивайло",
+      "nameEn": "ul. Ivaylo"
+    },
+    {
+      "id": 6174,
+      "cityID": 46,
+      "name": "ул. Иван Асен Втори",
+      "nameEn": "ul. Ivan Asen Vtori"
+    },
+    {
+      "id": 6175,
+      "cityID": 46,
+      "name": "ул. Иван Вазов",
+      "nameEn": "ul. Ivan Vazov"
+    },
+    {
+      "id": 6176,
+      "cityID": 46,
+      "name": "ул. Иван Димов",
+      "nameEn": "ul. Ivan Dimov"
+    },
+    {
+      "id": 6177,
+      "cityID": 46,
+      "name": "ул. Иван Докузов",
+      "nameEn": "ul. Ivan Dokuzov"
+    },
+    {
+      "id": 6178,
+      "cityID": 46,
+      "name": "ул. Иван Петров",
+      "nameEn": "ul. Ivan Petrov"
+    },
+    {
+      "id": 6179,
+      "cityID": 46,
+      "name": "ул. Иван хаджиМарчев",
+      "nameEn": "ul. Ivan hadzhiMarchev"
+    },
+    {
+      "id": 6180,
+      "cityID": 46,
+      "name": "ул. Изгрев",
+      "nameEn": "ul. Izgrev"
+    },
+    {
+      "id": 6181,
+      "cityID": 46,
+      "name": "ул. Илия Желев",
+      "nameEn": "ul. Iliya Zhelev"
+    },
+    {
+      "id": 6182,
+      "cityID": 46,
+      "name": "ул. Искра",
+      "nameEn": "ul. Iskra"
+    },
+    {
+      "id": 6183,
+      "cityID": 46,
+      "name": "ул. Искър",
+      "nameEn": "ul. Iskyr"
+    },
+    {
+      "id": 6184,
+      "cityID": 46,
+      "name": "ул. Капитан Паница",
+      "nameEn": "ul. Kapitan Panitsa"
+    },
+    {
+      "id": 6185,
+      "cityID": 46,
+      "name": "ул. Крачолови",
+      "nameEn": "ul. Kracholovi"
+    },
+    {
+      "id": 6186,
+      "cityID": 46,
+      "name": "ул. Карл Либнехт",
+      "nameEn": "ul. Karl Libneht"
+    },
+    {
+      "id": 6187,
+      "cityID": 46,
+      "name": "ул. Кирил и Методий",
+      "nameEn": "ul. Kiril i Metodiy"
+    },
+    {
+      "id": 6188,
+      "cityID": 46,
+      "name": "ул. Кита мома",
+      "nameEn": "ul. Kita moma"
+    },
+    {
+      "id": 6189,
+      "cityID": 46,
+      "name": "ул. Клара Цеткин",
+      "nameEn": "ul. Klara Tsetkin"
+    },
+    {
+      "id": 6190,
+      "cityID": 46,
+      "name": "ул. Костадин Нунков",
+      "nameEn": "ul. Kostadin Nunkov"
+    },
+    {
+      "id": 6191,
+      "cityID": 46,
+      "name": "ул. Кокиче",
+      "nameEn": "ul. Kokiche"
+    },
+    {
+      "id": 6192,
+      "cityID": 46,
+      "name": "ул. Комсомолска",
+      "nameEn": "ul. Komsomolska"
+    },
+    {
+      "id": 6193,
+      "cityID": 46,
+      "name": "ул. Кочо Цветаров",
+      "nameEn": "ul. Kocho Tsvetarov"
+    },
+    {
+      "id": 6195,
+      "cityID": 46,
+      "name": "ул. Крайна",
+      "nameEn": "ul. Krayna"
+    },
+    {
+      "id": 6196,
+      "cityID": 46,
+      "name": "ул. Лозарска",
+      "nameEn": "ul. Lozarska"
+    },
+    {
+      "id": 6197,
+      "cityID": 46,
+      "name": "ул. Любен Каравелов",
+      "nameEn": "ul. Lyuben Karavelov"
+    },
+    {
+      "id": 6198,
+      "cityID": 46,
+      "name": "ул. Михаил Кочев",
+      "nameEn": "ul. Mihail Kochev"
+    },
+    {
+      "id": 6199,
+      "cityID": 46,
+      "name": "ул. Марица",
+      "nameEn": "ul. Maritsa"
+    },
+    {
+      "id": 6200,
+      "cityID": 46,
+      "name": "ул. Матросов",
+      "nameEn": "ul. Matrosov"
+    },
+    {
+      "id": 6201,
+      "cityID": 46,
+      "name": "ул. Маяковски",
+      "nameEn": "ul. Mayakovski"
+    },
+    {
+      "id": 6202,
+      "cityID": 46,
+      "name": "ул. Минчо Драндаверски",
+      "nameEn": "ul. Mincho Drandaverski"
+    },
+    {
+      "id": 6203,
+      "cityID": 46,
+      "name": "ул. Мико Палаузов",
+      "nameEn": "ul. Miko Palauzov"
+    },
+    {
+      "id": 6204,
+      "cityID": 46,
+      "name": "ул. Московска Олимпиада",
+      "nameEn": "ul. Moskovska Olimpiada"
+    },
+    {
+      "id": 6205,
+      "cityID": 46,
+      "name": "ул. Москва",
+      "nameEn": "ul. Moskva"
+    },
+    {
+      "id": 6206,
+      "cityID": 46,
+      "name": "ул. Надежда",
+      "nameEn": "ul. Nadezhda"
+    },
+    {
+      "id": 6207,
+      "cityID": 46,
+      "name": "ул. Найден Стоянов",
+      "nameEn": "ul. Nayden Stoyanov"
+    },
+    {
+      "id": 6208,
+      "cityID": 46,
+      "name": "ул. Неделчо Николов",
+      "nameEn": "ul. Nedelcho Nikolov"
+    },
+    {
+      "id": 6209,
+      "cityID": 46,
+      "name": "ул. Никола Събчев",
+      "nameEn": "ul. Nikola Sybchev"
+    },
+    {
+      "id": 6210,
+      "cityID": 46,
+      "name": "ул. Нов живот",
+      "nameEn": "ul. Nov zhivot"
+    },
+    {
+      "id": 6211,
+      "cityID": 46,
+      "name": "ул. Никола Райков",
+      "nameEn": "ul. Nikola Raykov"
+    },
+    {
+      "id": 6212,
+      "cityID": 46,
+      "name": "ул. Наньо Христев",
+      "nameEn": "ul. Nanao Hristev"
+    },
+    {
+      "id": 6213,
+      "cityID": 46,
+      "name": "ул. Оборище",
+      "nameEn": "ul. Oborishte"
+    },
+    {
+      "id": 6214,
+      "cityID": 46,
+      "name": "ул. Омуртаг",
+      "nameEn": "ul. Omurtag"
+    },
+    {
+      "id": 6215,
+      "cityID": 46,
+      "name": "ул. Отец Паисий",
+      "nameEn": "ul. Otets Paisiy"
+    },
+    {
+      "id": 6216,
+      "cityID": 46,
+      "name": "ул. Парижка комуна",
+      "nameEn": "ul. Parizhka komuna"
+    },
+    {
+      "id": 6217,
+      "cityID": 46,
+      "name": "ул. Патрис Ломумба",
+      "nameEn": "ul. Patris Lomumba"
+    },
+    {
+      "id": 6218,
+      "cityID": 46,
+      "name": "ул. Петко Стоянов",
+      "nameEn": "ul. Petko Stoyanov"
+    },
+    {
+      "id": 6219,
+      "cityID": 46,
+      "name": "ул. Плиска",
+      "nameEn": "ul. Pliska"
+    },
+    {
+      "id": 6220,
+      "cityID": 46,
+      "name": "ул. Петър Неделчев",
+      "nameEn": "ul. Petyr Nedelchev"
+    },
+    {
+      "id": 6221,
+      "cityID": 46,
+      "name": "ул. Победа",
+      "nameEn": "ul. Pobeda"
+    },
+    {
+      "id": 6222,
+      "cityID": 46,
+      "name": "ул. Прогрес",
+      "nameEn": "ul. Progres"
+    },
+    {
+      "id": 6223,
+      "cityID": 46,
+      "name": "ул. Пенчо Славейков",
+      "nameEn": "ul. Pencho Slaveykov"
+    },
+    {
+      "id": 6224,
+      "cityID": 46,
+      "name": "ул. Първи май",
+      "nameEn": "ul. Pyrvi may"
+    },
+    {
+      "id": 6225,
+      "cityID": 46,
+      "name": "ул. Райко Даскалов",
+      "nameEn": "ul. Rayko Daskalov"
+    },
+    {
+      "id": 6226,
+      "cityID": 46,
+      "name": "ул. Раковски",
+      "nameEn": "ul. Rakovski"
+    },
+    {
+      "id": 6227,
+      "cityID": 46,
+      "name": "ул. Роза",
+      "nameEn": "ul. Roza"
+    },
+    {
+      "id": 6228,
+      "cityID": 46,
+      "name": "ул. Роза Люксембург",
+      "nameEn": "ul. Roza Lyuksemburg"
+    },
+    {
+      "id": 6229,
+      "cityID": 46,
+      "name": "ул. Ропотамо",
+      "nameEn": "ul. Ropotamo"
+    },
+    {
+      "id": 6230,
+      "cityID": 46,
+      "name": "ул. Русен Атанасов",
+      "nameEn": "ul. Rusen Atanasov"
+    },
+    {
+      "id": 6231,
+      "cityID": 46,
+      "name": "ул. Светлина",
+      "nameEn": "ul. Svetlina"
+    },
+    {
+      "id": 6232,
+      "cityID": 46,
+      "name": "ул. Свобода",
+      "nameEn": "ul. Svoboda"
+    },
+    {
+      "id": 6233,
+      "cityID": 46,
+      "name": "ул. Севастопол",
+      "nameEn": "ul. Sevastopol"
+    },
+    {
+      "id": 6234,
+      "cityID": 46,
+      "name": "ул. Септемврийци",
+      "nameEn": "ul. Septemvriytsi"
+    },
+    {
+      "id": 6235,
+      "cityID": 46,
+      "name": "ул. Славянка",
+      "nameEn": "ul. Slavyanka"
+    },
+    {
+      "id": 6236,
+      "cityID": 46,
+      "name": "ул. Спартак",
+      "nameEn": "ul. Spartak"
+    },
+    {
+      "id": 6237,
+      "cityID": 46,
+      "name": "ул. Мороза",
+      "nameEn": "ul. Moroza"
+    },
+    {
+      "id": 6238,
+      "cityID": 46,
+      "name": "ул. Сребрьо Стойновски",
+      "nameEn": "ul. Srebrao Stoynovski"
+    },
+    {
+      "id": 6239,
+      "cityID": 46,
+      "name": "ул. Средна гора",
+      "nameEn": "ul. Sredna gora"
+    },
+    {
+      "id": 6240,
+      "cityID": 46,
+      "name": "ул. Стaмболийски",
+      "nameEn": "ul. Stamboliyski"
+    },
+    {
+      "id": 6241,
+      "cityID": 46,
+      "name": "ул. Стефан Райчев",
+      "nameEn": "ul. Stefan Raychev"
+    },
+    {
+      "id": 6242,
+      "cityID": 46,
+      "name": "ул. Съзлийка",
+      "nameEn": "ul. Syzliyka"
+    },
+    {
+      "id": 6243,
+      "cityID": 46,
+      "name": "ул. Тане Пеев",
+      "nameEn": "ul. Tane Peev"
+    },
+    {
+      "id": 6244,
+      "cityID": 46,
+      "name": "ул. Тинтява",
+      "nameEn": "ul. Tintyava"
+    },
+    {
+      "id": 6245,
+      "cityID": 46,
+      "name": "ул. Тракия",
+      "nameEn": "ul. Trakiya"
+    },
+    {
+      "id": 6246,
+      "cityID": 46,
+      "name": "ул. Тунджа",
+      "nameEn": "ul. Tundzha"
+    },
+    {
+      "id": 6247,
+      "cityID": 46,
+      "name": "ул. Фридрих Енгелс",
+      "nameEn": "ul. Fridrih Engels"
+    },
+    {
+      "id": 6248,
+      "cityID": 46,
+      "name": "ул. Хан Аспарух",
+      "nameEn": "ul. Han Asparuh"
+    },
+    {
+      "id": 6249,
+      "cityID": 46,
+      "name": "ул. Христо Ботев",
+      "nameEn": "ul. Hristo Botev"
+    },
+    {
+      "id": 6250,
+      "cityID": 46,
+      "name": "ул. Христо Смирненски",
+      "nameEn": "ul. Hristo Smirnenski"
+    },
+    {
+      "id": 6251,
+      "cityID": 46,
+      "name": "ул. Цар Калоян",
+      "nameEn": "ul. TSar Kaloyan"
+    },
+    {
+      "id": 6252,
+      "cityID": 46,
+      "name": "ул. Чипровци",
+      "nameEn": "ul. CHiprovtsi"
+    },
+    {
+      "id": 6253,
+      "cityID": 46,
+      "name": "ул. Чирпански възвишения",
+      "nameEn": "ul. CHirpanski vyzvisheniya"
+    },
+    {
+      "id": 6254,
+      "cityID": 46,
+      "name": "ул. Шарампол",
+      "nameEn": "ul. SHarampol"
+    },
+    {
+      "id": 6255,
+      "cityID": 46,
+      "name": "ул. Шипка",
+      "nameEn": "ul. SHipka"
+    },
+    {
+      "id": 6256,
+      "cityID": 46,
+      "name": "ул. Ягъч",
+      "nameEn": "ul. YAgych"
+    },
+    {
+      "id": 6257,
+      "cityID": 46,
+      "name": "ул. Янко Иванов",
+      "nameEn": "ul. YAnko Ivanov"
+    },
+    {
+      "id": 6258,
+      "cityID": 46,
+      "name": "ул. Янко Кочев",
+      "nameEn": "ul. YAnko Kochev"
+    },
+    {
+      "id": 6259,
+      "cityID": 46,
+      "name": "ул. Околовръстен път",
+      "nameEn": "ul. Okolovrysten pyt"
+    },
+    {
+      "id": 10325,
+      "cityID": 46,
+      "name": "пл. Съединение 1",
+      "nameEn": "pl. Syedinenie 1"
+    },
+    {
+      "id": 10326,
+      "cityID": 46,
+      "name": "кв.Индустриален",
+      "nameEn": "kv.Industrialen"
+    },
+    {
+      "id": 10329,
+      "cityID": 46,
+      "name": "к-с Самара",
+      "nameEn": "k-s Samara"
+    },
+    {
+      "id": 10339,
+      "cityID": 46,
+      "name": "летище",
+      "nameEn": "letishte"
+    },
+    {
+      "id": 10342,
+      "cityID": 46,
+      "name": "кв.Летище",
+      "nameEn": "kv.Letishte"
+    },
+    {
+      "id": 11815,
+      "cityID": 46,
+      "name": "Източна индустриална зона",
+      "nameEn": "Iztochna industrialna zona"
+    },
+    {
+      "id": 40002,
+      "cityID": 46,
+      "name": "ул. Изход за Стара Загора",
+      "nameEn": "ul. Izhod za Stara Zagora"
+    },
+    {
+      "id": 40727,
+      "cityID": 46,
+      "name": "ул. Първи Стопански Двор",
+      "nameEn": "ul. Parvi Stopanski Dvor"
+    },
+    {
+      "id": 42502,
+      "cityID": 46,
+      "name": "ул. Единадесета",
+      "nameEn": "ul. Edinadeseta"
+    },
+    {
+      "id": 42611,
+      "cityID": 46,
+      "name": "ул. Иван Андонов",
+      "nameEn": "ul. Ivan Andonov"
+    },
+    {
+      "id": 42972,
+      "cityID": 46,
+      "name": "Околовръстен път",
+      "nameEn": "Okolovrysten pyt"
+    },
+    {
+      "id": 43377,
+      "cityID": 46,
+      "name": "ул. Малина",
+      "nameEn": "ul. Malina"
+    },
+    {
+      "id": 43685,
+      "cityID": 46,
+      "name": "ул. Мандра Бор Чвор",
+      "nameEn": "ul. Mahdra Bor Chvor"
+    },
+    {
+      "id": 44632,
+      "cityID": 46,
+      "name": "ул. Атанаска Тодорова",
+      "nameEn": "str. Atanaska Todorowa"
+    },
+    {
+      "id": 45927,
+      "cityID": 46,
+      "name": "бул. Георги Димитров",
+      "nameEn": "ul. georgi Dimitrov"
+    },
+    {
+      "id": 45975,
+      "cityID": 46,
+      "name": "ул. Стамболийски",
+      "nameEn": "ul. Stamboliiski"
+    },
+    {
+      "id": 46708,
+      "cityID": 46,
+      "name": "ул. Георги Данчов",
+      "nameEn": "ul. Georgi Danchov"
+    },
+    {
+      "id": 47438,
+      "cityID": 46,
+      "name": "ул. Стефан Стамболов",
+      "nameEn": "ul. Stefan Stambolov"
+    },
+    {
+      "id": 47954,
+      "cityID": 46,
+      "name": "ул. Иван Ботушаров",
+      "nameEn": "ul. Ivan Botusharov"
+    },
+    {
+      "id": 47960,
+      "cityID": 46,
+      "name": "ул. Димо Недев",
+      "nameEn": "ul. Dimo Nedev"
+    },
+    {
+      "id": 47990,
+      "cityID": 46,
+      "name": "ул. Васил Кълбов",
+      "nameEn": "ul. Vasil Kalbov"
+    },
+    {
+      "id": 49697,
+      "cityID": 46,
+      "name": "ул. Димитър Начев",
+      "nameEn": "ul. Dimitur Nachev"
+    },
+    {
+      "id": 49864,
+      "cityID": 46,
+      "name": "ул. Стою Филипов",
+      "nameEn": "ul. Stou Filipov"
+    },
+    {
+      "id": 50905,
+      "cityID": 46,
+      "name": "ул. Георги Сава Раковски",
+      "nameEn": "ul. Georgi Sava Rakovski"
+    },
+    {
+      "id": 51101,
+      "cityID": 46,
+      "name": "ул. Стаян Заимов",
+      "nameEn": "ul. Stoqn Zaimov"
+    },
+    {
+      "id": 51102,
+      "cityID": 46,
+      "name": "ул. Стоян Заимов",
+      "nameEn": "ul. Stoyan Zaimov"
+    },
+    {
+      "id": 52640,
+      "cityID": 46,
+      "name": "ул. Феликс Джерджински",
+      "nameEn": "ul. Fliks Djerdjinski"
+    },
+    {
+      "id": 53101,
+      "cityID": 46,
+      "name": "ул. Пирин",
+      "nameEn": "ul. Pirin"
+    },
+    {
+      "id": 55285,
+      "cityID": 46,
+      "name": "ул. Клара Ешкенази",
+      "nameEn": "ul. Klara Eshkenazi"
+    },
+    {
+      "id": 55679,
+      "cityID": 46,
+      "name": "ул. Никола Вапцаров",
+      "nameEn": "ul. Nikola Vapcarov"
+    },
+    {
+      "id": 55755,
+      "cityID": 46,
+      "name": "ул. Братя Албалах",
+      "nameEn": "ul. Bratya Albalah"
+    },
+    {
+      "id": 55862,
+      "cityID": 46,
+      "name": "ул. Чарица",
+      "nameEn": "ul. Charica"
+    },
+    {
+      "id": 56814,
+      "cityID": 46,
+      "name": "ул. Гита и Георги",
+      "nameEn": "ul. Gita I Georgi"
+    },
+    {
+      "id": 57270,
+      "cityID": 46,
+      "name": "ул. Поп Хаджи Петър Аврамов",
+      "nameEn": "ul. Pop Hagi Petăr Avramov"
+    },
+    {
+      "id": 59355,
+      "cityID": 46,
+      "name": "ул. Партизанска",
+      "nameEn": "ул. Партизанска"
+    },
+    {
+      "id": 65876,
+      "cityID": 46,
+      "name": "ул. Асен Златаров",
+      "nameEn": "ul. Asen Zlatarov"
+    },
+    {
+      "id": 128172,
+      "cityID": 46,
+      "name": "ул. Московска",
+      "nameEn": "ul. Moskovska"
+    },
+    {
+      "id": 130199,
+      "cityID": 46,
+      "name": "ул. Преслав",
+      "nameEn": "ul. Preslav"
+    },
+    {
+      "id": 137772,
+      "cityID": 46,
+      "name": "ул. Ангел Пеев",
+      "nameEn": "ul. Angel Peev"
+    },
+    {
+      "id": 138801,
+      "cityID": 46,
+      "name": "ул. Сергей Румянцев",
+      "nameEn": "ul. Sergey Rumyancev"
+    },
+    {
+      "id": 167519,
+      "cityID": 46,
+      "name": "ул. Цанко Церковски",
+      "nameEn": "ul. Canko Cerkovski"
+    },
+    {
+      "id": 168140,
+      "cityID": 46,
+      "name": "георги димитров",
+      "nameEn": "Cvetelina Gojuharova"
+    },
+    {
+      "id": 172120,
+      "cityID": 46,
+      "name": "ул. Димитър Накев",
+      "nameEn": "ul. Dimitar Nakev"
+    },
+    {
+      "id": 172495,
+      "cityID": 46,
+      "name": "ул.Иван Михайлов",
+      "nameEn": "ul.Ivan  Mihailov"
+    },
+    {
+      "id": 173396,
+      "cityID": 46,
+      "name": "ул. Точо Войвода",
+      "nameEn": "ul. Tocho Vojvoda"
+    },
+    {
+      "id": 173513,
+      "cityID": 46,
+      "name": "ул. Мир",
+      "nameEn": "ul. Mir"
+    },
+    {
+      "id": 175180,
+      "cityID": 46,
+      "name": "ул. Димитър Данаилов",
+      "nameEn": "ul.Dimitar Danilov"
+    },
+    {
+      "id": 178468,
+      "cityID": 46,
+      "name": "ул. Иван Шишман",
+      "nameEn": "ul. Ivan Shishman"
+    }
+  ]
+}

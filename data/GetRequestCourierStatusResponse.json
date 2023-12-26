@@ -1,0 +1,20 @@
+{
+  "requestCourierStatus": [
+    {
+      "status": {
+        "id": 2020110000000072,
+        "status": "taken",
+        "note": null
+      },
+      "error": null
+    },
+    {
+      "status": {
+        "id": 2020110000000073,
+        "status": "unprocess",
+        "note": "visit later"
+      },
+      "error": null
+    }
+  ]
+}

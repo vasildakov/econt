@@ -1,0 +1,12 @@
+{
+  "address": {
+    "city": {
+      "country": {
+        "code2": "BG"
+      },
+      "name": "Русе"
+    },
+    "street": "Славянска",
+    "num": "16"
+  }
+}

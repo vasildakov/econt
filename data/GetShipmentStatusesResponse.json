@@ -1,0 +1,118 @@
+// 20231226233953
+// https://ee.econt.com/doc_templates/srv/GetShipmentStatusesResponse.json
+
+{
+  "shipmentStatuses": [
+    {
+      "status": {
+        "shipmentNumber": "1050010095854",
+        "storageOfficeName": "Русе РЦ Населено място",
+        "storagePersonName": null,
+        "createdTime": null,
+        "sendTime": 1523517690000,
+        "deliveryTime": null,
+        "shipmentType": null,
+        "packCount": 2,
+        "weight": null,
+        "shipmentDescription": null,
+        "senderDeliveryType": null,
+        "senderClient": {
+          "id": null,
+          "name": null,
+          "nameEn": null,
+          "phones": [
+
+          ],
+          "email": null,
+          "skypeAccounts": [
+
+          ],
+          "clientNumber": null,
+          "clientNumberEn": null,
+          "juridicalEntity": null,
+          "personalIDType": null,
+          "personalIDNumber": null,
+          "companyType": null,
+          "ein": null,
+          "ddsEinPrefix": null,
+          "ddsEin": null,
+          "registrationAddress": null,
+          "molName": null,
+          "molEGN": null,
+          "molIDNum": null
+        },
+        "senderAgent": null,
+        "senderOfficeCode": null,
+        "senderAddress": null,
+        "receiverDeliveryType": null,
+        "receiverClient": {
+          "id": null,
+          "name": null,
+          "nameEn": null,
+          "phones": [
+
+          ],
+          "email": null,
+          "skypeAccounts": [
+
+          ],
+          "clientNumber": null,
+          "clientNumberEn": null,
+          "juridicalEntity": null,
+          "personalIDType": null,
+          "personalIDNumber": null,
+          "companyType": null,
+          "ein": null,
+          "ddsEinPrefix": null,
+          "ddsEin": null,
+          "registrationAddress": null,
+          "molName": null,
+          "molEGN": null,
+          "molIDNum": null
+        },
+        "receiverAgent": null,
+        "receiverOfficeCode": null,
+        "receiverAddress": null,
+        "cdCollectedAmount": null,
+        "cdCollectedCurrency": null,
+        "cdCollectedTime": null,
+        "cdPaidAmount": null,
+        "cdPaidCurrency": null,
+        "cdPaidTime": null,
+        "totalPrice": null,
+        "currency": null,
+        "discountPercent": null,
+        "discountAmount": null,
+        "discountDescription": null,
+        "senderDueAmount": null,
+        "receiverDueAmount": null,
+        "otherDueAmount": null,
+        "deliveryAttemptCount": null,
+        "previousShipmentNumber": null,
+        "services": [
+
+        ],
+        "nextShipments": [
+
+        ],
+        "trackingEvents": [
+          {
+            "time": 1523517690000,
+            "isReceipt": false,
+            "destinationType": "office",
+            "destinationDetails": "Русе РЦ Населено място",
+            "destinationDetailsEn": "Ruse",
+            "officeName": "Русе РЦ Населено място",
+            "officeNameEn": "Ruse",
+            "cityName": "Русе",
+            "cityNameEn": "Ruse",
+            "countryCode": null
+          }
+        ],
+        "pdfURL": null,
+        "expectedDeliveryDate": 1523566800000
+      },
+      "error": null
+    }
+  ]
+}

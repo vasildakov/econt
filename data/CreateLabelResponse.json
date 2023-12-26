@@ -1,0 +1,59 @@
+
+{
+  "label": {
+    "shipmentNumber": null,
+    "storageOfficeName": null,
+    "storagePersonName": null,
+    "createdTime": 1524122745000,
+    "sendTime": null,
+    "deliveryTime": null,
+    "shipmentType": "pack",
+    "packCount": 1,
+    "weight": 5,
+    "shipmentDescription": "обувки",
+    "senderDeliveryType": null,
+    "senderClient": null,
+    "senderAgent": null,
+    "senderOfficeCode": null,
+    "senderAddress": null,
+    "receiverDeliveryType": null,
+    "receiverClient": null,
+    "receiverAgent": null,
+    "receiverOfficeCode": null,
+    "receiverAddress": null,
+    "cdCollectedAmount": 0,
+    "cdCollectedCurrency": "",
+    "cdCollectedTime": null,
+    "cdPaidAmount": 0,
+    "cdPaidCurrency": "",
+    "cdPaidTime": null,
+    "totalPrice": 9.9,
+    "currency": "BGN",
+    "discountPercent": 0,
+    "discountAmount": -0,
+    "discountDescription": "",
+    "senderDueAmount": 9.9,
+    "receiverDueAmount": 0,
+    "otherDueAmount": 0,
+    "deliveryAttemptCount": 0,
+    "previousShipmentNumber": "",
+    "services": [
+      {
+        "type": "C",
+        "description": "Куриерска услуга - градски куриер до 5 кг",
+        "count": 1,
+        "paymentSide": "SENDER",
+        "price": 9.9,
+        "currency": "BGN"
+      }
+    ],
+    "nextShipments": [
+
+    ],
+    "trackingEvents": [
+
+    ],
+    "pdfURL": "",
+    "expectedDeliveryDate": 1524171600000
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "label": {
+    "senderClient": {
+      "name": "Иван Иванов",
+      "phones": [
+        "0888888888"
+      ]
+    },
+    "senderAddress": {
+      "city": {
+        "country": {
+          "code3": "BGR"
+        },
+        "name": "Русе",
+        "postCode": "7012"
+      },
+      "street": "Алея Младост",
+      "num": "7"
+    },
+    "receiverClient": {
+      "name": "Димитър Димитров",
+      "phones": [
+        "0876543210"
+      ]
+    },
+    "receiverAddress": {
+      "city": {
+        "country": {
+          "code3": "BGR"
+        },
+        "name": "Русе",
+        "postCode": "7010"
+      },
+      "street": "Муткурова",
+      "num": "84",
+      "other": "бл. 5, вх. А, ет. 6"
+    },
+    "packCount": 1,
+    "shipmentType": "PACK",
+    "weight": 5,
+    "shipmentDescription": "обувки"
+  },
+  "mode": "validate"
+}

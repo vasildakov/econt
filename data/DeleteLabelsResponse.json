@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "shipmentNum": "1050010095854",
+      "error": {
+        "type": "ExInvalidParam",
+        "message": "Товарителницата е на друг потребител.",
+        "fields": [
+
+        ],
+        "innerErrors": [
+
+        ]
+      }
+    }
+  ]
+}

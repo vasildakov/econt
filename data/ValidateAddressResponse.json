@@ -1,0 +1,36 @@
+{
+  "address": {
+    "id": null,
+    "city": {
+      "id": 35,
+      "country": {
+        "id": 1033,
+        "code2": "BG",
+        "code3": null,
+        "name": "България",
+        "nameEn": "Bulgaria",
+        "isEU": true
+      },
+      "postCode": "7000",
+      "name": "Русе",
+      "nameEn": "Ruse",
+      "regionName": "Русе",
+      "regionNameEn": "Ruse",
+      "phoneCode": "82",
+      "location": null,
+      "expressCityDeliveries": null
+    },
+    "fullAddress": "ул. Славянска 16",
+    "quarter": "",
+    "street": "ул. Славянска",
+    "num": "16",
+    "other": null,
+    "location": {
+      "latitude": 43.8466058,
+      "longitude": 25.9486055,
+      "confidence": 3
+    },
+    "zip": null
+  },
+  "validationStatus": "normal"
+}

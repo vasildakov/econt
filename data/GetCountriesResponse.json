@@ -1,0 +1,1212 @@
+{
+  "countries": [
+    {
+      "id": null,
+      "code2": "AL",
+      "code3": "ALB",
+      "name": "Албания",
+      "nameEn": "Albania",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "DZ",
+      "code3": "DZA",
+      "name": "Алжир",
+      "nameEn": "Algeria",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AR",
+      "code3": "ARG",
+      "name": "Аржентина",
+      "nameEn": "Argentina",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AU",
+      "code3": "AUS",
+      "name": "Австралия",
+      "nameEn": "Australia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AT",
+      "code3": "AUT",
+      "name": "Австрия",
+      "nameEn": "Austria",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "BH",
+      "code3": "BHR",
+      "name": "Бахрейн",
+      "nameEn": "Bahrain",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "BD",
+      "code3": "BGD",
+      "name": "Бангладеш",
+      "nameEn": "Bangladesh",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "BY",
+      "code3": "BLR",
+      "name": "Беларус",
+      "nameEn": "Belarus",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "BE",
+      "code3": "BEL",
+      "name": "Белгия",
+      "nameEn": "Belgium",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "BA",
+      "code3": "BIH",
+      "name": "Босна и херцеговина",
+      "nameEn": "Bosnia and Herzegovina",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "BR",
+      "code3": "BRA",
+      "name": "Бразилия",
+      "nameEn": "Brazil",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "BG",
+      "code3": "BGR",
+      "name": "България",
+      "nameEn": "Bulgaria",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "KH",
+      "code3": "KHM",
+      "name": "Камбоджа",
+      "nameEn": "Cambodia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CM",
+      "code3": "CMR",
+      "name": "Камерун",
+      "nameEn": "Cameroon",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CA",
+      "code3": "CAN",
+      "name": "Канада",
+      "nameEn": "Canada",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "KY",
+      "code3": "CYM",
+      "name": "Кайманови О-ви",
+      "nameEn": "Cayman Islands",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CL",
+      "code3": "CHL",
+      "name": "Чили",
+      "nameEn": "Chile",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CN",
+      "code3": "CHN",
+      "name": "Китай",
+      "nameEn": "China",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CO",
+      "code3": "COL",
+      "name": "Колумбия",
+      "nameEn": "Colombia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CR",
+      "code3": "CRI",
+      "name": "Коста Рика",
+      "nameEn": "Costa Rica",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "HR",
+      "code3": "HRV",
+      "name": "Хърватия",
+      "nameEn": "Croatia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CY",
+      "code3": "CYP",
+      "name": "Кипър",
+      "nameEn": "Cyprus",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "CZ",
+      "code3": "CZE",
+      "name": "Чехия",
+      "nameEn": "Czech Republic",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "DK",
+      "code3": "DNK",
+      "name": "Дания",
+      "nameEn": "Denmark",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "DM",
+      "code3": "DMA",
+      "name": "Доминика",
+      "nameEn": "Dominica",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "EC",
+      "code3": "ECU",
+      "name": "Еквадор",
+      "nameEn": "Ecuador",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "EG",
+      "code3": "EGY",
+      "name": "Египет",
+      "nameEn": "Egypt",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SV",
+      "code3": "SLV",
+      "name": "Ел Салвадор",
+      "nameEn": "El Salvador",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "EE",
+      "code3": "EST",
+      "name": "Естония",
+      "nameEn": "Estonia",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "ET",
+      "code3": "ETH",
+      "name": "Етиопия",
+      "nameEn": "Ethiopia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "FI",
+      "code3": "FIN",
+      "name": "Финландия",
+      "nameEn": "Finland",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "FR",
+      "code3": "FRA",
+      "name": "Франция",
+      "nameEn": "France",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "DE",
+      "code3": "DEU",
+      "name": "Германия",
+      "nameEn": "Germany",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "GI",
+      "code3": "GIB",
+      "name": "Гибралтар",
+      "nameEn": "Gibraltar",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GR",
+      "code3": "GRC",
+      "name": "Гърция",
+      "nameEn": "Greece",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "HT",
+      "code3": "HTI",
+      "name": "Хаити",
+      "nameEn": "Haiti",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "HN",
+      "code3": "HND",
+      "name": "Хондурас",
+      "nameEn": "Honduras",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "HK",
+      "code3": "HKG",
+      "name": "Хонг Конг",
+      "nameEn": "Hong Kong",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "HU",
+      "code3": "HUN",
+      "name": "Унгария",
+      "nameEn": "Hungary",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "IS",
+      "code3": "ISL",
+      "name": "Исландия",
+      "nameEn": "Iceland",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "IN",
+      "code3": "IND",
+      "name": "Индия",
+      "nameEn": "India",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "ID",
+      "code3": "IDN",
+      "name": "Индонезия",
+      "nameEn": "Indonesia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "IR",
+      "code3": "IRN",
+      "name": "Иран",
+      "nameEn": "Iran",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "IE",
+      "code3": "IRL",
+      "name": "Ирландия",
+      "nameEn": "Ireland",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "IL",
+      "code3": "ISR",
+      "name": "Израел",
+      "nameEn": "Israel",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "IT",
+      "code3": "ITA",
+      "name": "Италия",
+      "nameEn": "Italy",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "JP",
+      "code3": "JPN",
+      "name": "Япония",
+      "nameEn": "Japan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "JO",
+      "code3": "JOR",
+      "name": "Йордания",
+      "nameEn": "Jordan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "KE",
+      "code3": "KEN",
+      "name": "Кения",
+      "nameEn": "Kenya",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "KR",
+      "code3": "KOR",
+      "name": "Корея (южна)",
+      "nameEn": "South Korea",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "KW",
+      "code3": "KWT",
+      "name": "Кувейт",
+      "nameEn": "Kuwait",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "LV",
+      "code3": "LVA",
+      "name": "Латвия",
+      "nameEn": "Latvia",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "LB",
+      "code3": "LBN",
+      "name": "Ливан",
+      "nameEn": "Lebanon",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "LY",
+      "code3": "LBY",
+      "name": "Либия",
+      "nameEn": "Libya",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "LI",
+      "code3": "LIE",
+      "name": "Лихтенщайн",
+      "nameEn": "Liechtenstein",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "LT",
+      "code3": "LTU",
+      "name": "Литва",
+      "nameEn": "Lithuania",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "LU",
+      "code3": "LUX",
+      "name": "Люксембург",
+      "nameEn": "Luxembourg",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "MK",
+      "code3": "MKD",
+      "name": "Македония",
+      "nameEn": "Macedonia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MY",
+      "code3": "MYS",
+      "name": "Малайзия",
+      "nameEn": "Malaysia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MV",
+      "code3": "MDV",
+      "name": "Малдивски О-ви",
+      "nameEn": "Maldives",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MT",
+      "code3": "MLT",
+      "name": "Малта",
+      "nameEn": "Malta",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "MX",
+      "code3": "MEX",
+      "name": "Мексико",
+      "nameEn": "Mexico",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MD",
+      "code3": "MDA",
+      "name": "Молдова",
+      "nameEn": "Moldova",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MC",
+      "code3": "MCO",
+      "name": "Монако",
+      "nameEn": "Monaco",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MA",
+      "code3": "MAR",
+      "name": "Мароко",
+      "nameEn": "Morocco",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "NP",
+      "code3": "NPL",
+      "name": "Непал",
+      "nameEn": "Nepal",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "NL",
+      "code3": "NLD",
+      "name": "Холандия",
+      "nameEn": "Netherlands",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "NZ",
+      "code3": "NZL",
+      "name": "Нова Зеландия",
+      "nameEn": "New Zealand",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "NI",
+      "code3": "NIC",
+      "name": "Никарагуа",
+      "nameEn": "Nicaragua",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "NE",
+      "code3": "NER",
+      "name": "Нигер",
+      "nameEn": "Niger",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "NG",
+      "code3": "NGA",
+      "name": "Нигерия",
+      "nameEn": "Nigeria",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "NO",
+      "code3": "NOR",
+      "name": "Норвегия",
+      "nameEn": "Norway",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "OM",
+      "code3": "OMN",
+      "name": "Оман",
+      "nameEn": "Oman",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "PK",
+      "code3": "PAK",
+      "name": "Пакистан",
+      "nameEn": "Pakistan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "PA",
+      "code3": "PAN",
+      "name": "Панама",
+      "nameEn": "Panama",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "PY",
+      "code3": "PRY",
+      "name": "Парагвай",
+      "nameEn": "Paraguay",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "PE",
+      "code3": "PER",
+      "name": "Перу",
+      "nameEn": "Peru",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "PH",
+      "code3": "PHL",
+      "name": "Филипини",
+      "nameEn": "Philippines",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "PL",
+      "code3": "POL",
+      "name": "Полша",
+      "nameEn": "Poland",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "PT",
+      "code3": "PRT",
+      "name": "Португалия",
+      "nameEn": "Portugal",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "PR",
+      "code3": "PRI",
+      "name": "Пуерто Рико",
+      "nameEn": "Puerto Rico",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "QA",
+      "code3": "QAT",
+      "name": "Катар",
+      "nameEn": "Qatar",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "RO",
+      "code3": "ROU",
+      "name": "Румъния",
+      "nameEn": "Romania",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "RU",
+      "code3": "RUS",
+      "name": "Русия",
+      "nameEn": "Russia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SM",
+      "code3": "SMR",
+      "name": "Сан Марино",
+      "nameEn": "San Marino",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SA",
+      "code3": "SAU",
+      "name": "Саудитска Арабия",
+      "nameEn": "Saudi Arabia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SC",
+      "code3": "SYC",
+      "name": "Сейшелски Острови",
+      "nameEn": "Seychelles",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SG",
+      "code3": "SGP",
+      "name": "Сингапур",
+      "nameEn": "Singapore",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SK",
+      "code3": "SVK",
+      "name": "Словакия",
+      "nameEn": "Slovakia",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "SI",
+      "code3": "SVN",
+      "name": "Словения",
+      "nameEn": "Slovenia",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "ZA",
+      "code3": "ZAF",
+      "name": "Южна Африка",
+      "nameEn": "South Africa",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "ES",
+      "code3": "ESP",
+      "name": "Испания",
+      "nameEn": "Spain",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "LK",
+      "code3": "LKA",
+      "name": "Шри Ланка",
+      "nameEn": "Sri Lanka",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SD",
+      "code3": "SDN",
+      "name": "Судан",
+      "nameEn": "Sudan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SR",
+      "code3": "SUR",
+      "name": "Суринам",
+      "nameEn": "Suriname",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SE",
+      "code3": "SWE",
+      "name": "Швеция",
+      "nameEn": "Sweden",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "CH",
+      "code3": "CHE",
+      "name": "Швейцария",
+      "nameEn": "Switzerland",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SY",
+      "code3": "SYR",
+      "name": "Сирия",
+      "nameEn": "Syria",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TW",
+      "code3": "TWN",
+      "name": "Тайван",
+      "nameEn": "Taiwan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TH",
+      "code3": "THA",
+      "name": "Тайланд",
+      "nameEn": "Thailand",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TN",
+      "code3": "TUN",
+      "name": "Тунис",
+      "nameEn": "Tunisia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TR",
+      "code3": "TUR",
+      "name": "Турция",
+      "nameEn": "Turkey",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "UA",
+      "code3": "UKR",
+      "name": "Украйна",
+      "nameEn": "Ukraine",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AE",
+      "code3": "ARE",
+      "name": "Обединени арабски емирства",
+      "nameEn": "United Arab Emirates",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "US",
+      "code3": "USA",
+      "name": "Сащ",
+      "nameEn": "United States of America",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "VE",
+      "code3": "VEN",
+      "name": "Венецуела",
+      "nameEn": "Venezuela",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "VN",
+      "code3": "VNM",
+      "name": "Виетнам",
+      "nameEn": "Vietnam",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "YE",
+      "code3": "YEM",
+      "name": "Йемен",
+      "nameEn": "Yemen",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "RS",
+      "code3": "SRB",
+      "name": "Сърбия",
+      "nameEn": "Serbia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GB",
+      "code3": "GBR",
+      "name": "Великобритания",
+      "nameEn": "United Kingdom",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "XK",
+      "code3": "XK",
+      "name": "Косово",
+      "nameEn": "Kosovo",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GE",
+      "code3": "GEO",
+      "name": "Грузия",
+      "nameEn": "Georgia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TJ",
+      "code3": "TJK",
+      "name": "Таджикистан",
+      "nameEn": "Tajikistan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AM",
+      "code3": "ARM",
+      "name": "Армения",
+      "nameEn": "Armenia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AD",
+      "code3": "AND",
+      "name": "Андора",
+      "nameEn": "Andorra",
+      "isEU": true
+    },
+    {
+      "id": null,
+      "code2": "LA",
+      "code3": "LAO",
+      "name": "Лаос",
+      "nameEn": "Laos",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AZ",
+      "code3": "AZE",
+      "name": "Азербeйджан",
+      "nameEn": "Azerbaijan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AO",
+      "code3": "AGO",
+      "name": "Ангола",
+      "nameEn": "Angola",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "AF",
+      "code3": "AFG",
+      "name": "Афганистан",
+      "nameEn": "Afghanistan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "BJ",
+      "code3": "BEN",
+      "name": "Бенин",
+      "nameEn": "Benin",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "BO",
+      "code3": "BOL",
+      "name": "Боливия",
+      "nameEn": "Bolivia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GA",
+      "code3": "GAB",
+      "name": "Габон",
+      "nameEn": "Gabon",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GH",
+      "code3": "GHA",
+      "name": "Гана",
+      "nameEn": "Ghana",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GP",
+      "code3": "GLP",
+      "name": "Гваделупа",
+      "nameEn": "Guadeloupe",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GT",
+      "code3": "GTM",
+      "name": "Гватемала",
+      "nameEn": "Guatemala",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GN",
+      "code3": "GIN",
+      "name": "Гвинея",
+      "nameEn": "Guinea",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "GW",
+      "code3": "GNB",
+      "name": "Гвинея Бисау",
+      "nameEn": "Guinea-Bissau",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "DO",
+      "code3": "DOM",
+      "name": "Доминиканска Република",
+      "nameEn": "Dominican Republic",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "IQ",
+      "code3": "IRQ",
+      "name": "Ирак",
+      "nameEn": "Iraq",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "ZM",
+      "code3": "ZMB",
+      "name": "Замбия",
+      "nameEn": "Zambia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "KZ",
+      "code3": "KAZ",
+      "name": "Казахстан",
+      "nameEn": "Kazakhstan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "KG",
+      "code3": "KGZ",
+      "name": "Киргизстан",
+      "nameEn": "Kyrgyzstan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "CG",
+      "code3": "COG",
+      "name": "Конго",
+      "nameEn": "Congo",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "LR",
+      "code3": "LBR",
+      "name": "Либерия",
+      "nameEn": "Liberia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MR",
+      "code3": "MRT",
+      "name": "Мавритания",
+      "nameEn": "Mauritania",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MG",
+      "code3": "MDG",
+      "name": "Мадагаскар",
+      "nameEn": "Madagascar",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "ML",
+      "code3": "MLI",
+      "name": "Мали",
+      "nameEn": "Mali",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "MZ",
+      "code3": "MOZ",
+      "name": "Мозамбик",
+      "nameEn": "Mozambique",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "PS",
+      "code3": "PSE",
+      "name": "Палестина",
+      "nameEn": "Palestine",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "RW",
+      "code3": "RWA",
+      "name": "Руанда",
+      "nameEn": "Rwanda",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SN",
+      "code3": "SEN",
+      "name": "Сенегал",
+      "nameEn": "Senegal",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SL",
+      "code3": "SLE",
+      "name": "Сиера Леоне",
+      "nameEn": "Sierra Leone",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "SO",
+      "code3": "SOM",
+      "name": "Сомалия",
+      "nameEn": "Somalia",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TZ",
+      "code3": "TZA",
+      "name": "Танзания",
+      "nameEn": "Tanzania",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TG",
+      "code3": "TGO",
+      "name": "Того",
+      "nameEn": "Togo",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "TM",
+      "code3": "TKM",
+      "name": "Туркменистан",
+      "nameEn": "Turkmenistan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "UZ",
+      "code3": "UZB",
+      "name": "Узбекистан",
+      "nameEn": "Uzbekistan",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "UY",
+      "code3": "URY",
+      "name": "Уругвай",
+      "nameEn": "Uruguay",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "ME",
+      "code3": "MNE",
+      "name": "Черна гора",
+      "nameEn": "Montenegro",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "JM",
+      "code3": "JAM",
+      "name": "Ямайка",
+      "nameEn": "Jamaica",
+      "isEU": false
+    },
+    {
+      "id": null,
+      "code2": "IB",
+      "code3": "BAL",
+      "name": "Балеарски острови",
+      "nameEn": "Balearic Islands",
+      "isEU": false
+    }
+  ]
+}

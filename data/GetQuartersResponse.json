@@ -1,0 +1,1429 @@
+// 20231226233041
+// https://ee.econt.com/doc_templates/srv/GetQuartersResponse.json
+
+{
+  "quarters": [
+    {
+      "id": 210,
+      "cityID": 41,
+      "name": "кв. Слатина",
+      "nameEn": "kv. Slatina"
+    },
+    {
+      "id": 211,
+      "cityID": 41,
+      "name": "кв. Младост-1",
+      "nameEn": "kv. Mladost-1"
+    },
+    {
+      "id": 212,
+      "cityID": 41,
+      "name": "кв. Младост-2",
+      "nameEn": "kv. Mladost-2"
+    },
+    {
+      "id": 213,
+      "cityID": 41,
+      "name": "кв. Младост-3",
+      "nameEn": "kv. Mladost-3"
+    },
+    {
+      "id": 214,
+      "cityID": 41,
+      "name": "кв. Младост-4",
+      "nameEn": "kv. Mladost-4"
+    },
+    {
+      "id": 216,
+      "cityID": 41,
+      "name": "жк Дианабад",
+      "nameEn": "zhk Dianabad"
+    },
+    {
+      "id": 218,
+      "cityID": 41,
+      "name": "кв. Горубляне",
+      "nameEn": "kv. Gorublyane"
+    },
+    {
+      "id": 220,
+      "cityID": 41,
+      "name": "жк Изгрев",
+      "nameEn": "zhk Izgrev"
+    },
+    {
+      "id": 221,
+      "cityID": 41,
+      "name": "жк Изток",
+      "nameEn": "jk Iztok"
+    },
+    {
+      "id": 222,
+      "cityID": 41,
+      "name": "жк Дружба-1",
+      "nameEn": "zhk Druzhba-1"
+    },
+    {
+      "id": 223,
+      "cityID": 41,
+      "name": "жк Дружба-2",
+      "nameEn": "zhk Druzhba-2"
+    },
+    {
+      "id": 225,
+      "cityID": 41,
+      "name": "кв. Овча купел 2",
+      "nameEn": "kv. Ovcha kupel 2"
+    },
+    {
+      "id": 226,
+      "cityID": 41,
+      "name": "жк Иван Вазов",
+      "nameEn": "zhk Ivan Vazov"
+    },
+    {
+      "id": 227,
+      "cityID": 41,
+      "name": "жк Стрелбище",
+      "nameEn": "jk Strelbishte"
+    },
+    {
+      "id": 229,
+      "cityID": 41,
+      "name": "кв. Хладилника",
+      "nameEn": "kv. Hladilnika"
+    },
+    {
+      "id": 230,
+      "cityID": 41,
+      "name": "жк Хиподрума",
+      "nameEn": "zhk Hipodruma"
+    },
+    {
+      "id": 232,
+      "cityID": 41,
+      "name": "жк Хаджи Димитър",
+      "nameEn": "zhk Hadzhi Dimityr"
+    },
+    {
+      "id": 233,
+      "cityID": 41,
+      "name": "жк Банишора",
+      "nameEn": "zhk Banishora"
+    },
+    {
+      "id": 234,
+      "cityID": 41,
+      "name": "жк Белите брези",
+      "nameEn": "zhk Belite brezi"
+    },
+    {
+      "id": 235,
+      "cityID": 41,
+      "name": "Гробищен парк Бакърена фабрика",
+      "nameEn": "Grobishten park Bakarena fabrika"
+    },
+    {
+      "id": 237,
+      "cityID": 41,
+      "name": "кв. Бенковски",
+      "nameEn": "kv. Benkovski"
+    },
+    {
+      "id": 238,
+      "cityID": 41,
+      "name": "кв. Ботунец",
+      "nameEn": "zh.k. Botunets"
+    },
+    {
+      "id": 239,
+      "cityID": 41,
+      "name": "кв. Бояна",
+      "nameEn": "kv. Boyana"
+    },
+    {
+      "id": 243,
+      "cityID": 41,
+      "name": "кв. Враждебна",
+      "nameEn": "kv. Vrazhdebna"
+    },
+    {
+      "id": 246,
+      "cityID": 41,
+      "name": "жп гара Искър - ПЗ Искър",
+      "nameEn": "zhp gara Iskar"
+    },
+    {
+      "id": 247,
+      "cityID": 41,
+      "name": "жк Гео Милев",
+      "nameEn": "zhk Geo Milev"
+    },
+    {
+      "id": 248,
+      "cityID": 41,
+      "name": "жк Гевгелийски",
+      "nameEn": "zhk Gevgeliyski"
+    },
+    {
+      "id": 249,
+      "cityID": 41,
+      "name": "кв. Горна Баня",
+      "nameEn": "kv. Gorna Banya"
+    },
+    {
+      "id": 251,
+      "cityID": 41,
+      "name": "кв. Драгалевци",
+      "nameEn": "kv. Dragalevtsi"
+    },
+    {
+      "id": 252,
+      "cityID": 41,
+      "name": "жк Западен парк",
+      "nameEn": "zhk Zapaden park"
+    },
+    {
+      "id": 253,
+      "cityID": 41,
+      "name": "жк Захарна фабрика",
+      "nameEn": "zhk Zaharna fabrika"
+    },
+    {
+      "id": 254,
+      "cityID": 41,
+      "name": "жк Зона Б-18",
+      "nameEn": "zhk Zona B-18"
+    },
+    {
+      "id": 255,
+      "cityID": 41,
+      "name": "жк Зона Б-19",
+      "nameEn": "zhk Zona B-19"
+    },
+    {
+      "id": 256,
+      "cityID": 41,
+      "name": "жк Зона Б-5",
+      "nameEn": "zhk Zona B-5"
+    },
+    {
+      "id": 257,
+      "cityID": 41,
+      "name": "жк Илинден",
+      "nameEn": "jk Ilinden"
+    },
+    {
+      "id": 258,
+      "cityID": 41,
+      "name": "кв. Илиянци",
+      "nameEn": "kv. Iliyantsi"
+    },
+    {
+      "id": 259,
+      "cityID": 41,
+      "name": "вз Киноцентъра",
+      "nameEn": "vz Kinotsentyra"
+    },
+    {
+      "id": 260,
+      "cityID": 41,
+      "name": "кв. Княжево",
+      "nameEn": "kv. Knyazhevo"
+    },
+    {
+      "id": 261,
+      "cityID": 41,
+      "name": "жк Красна поляна-1",
+      "nameEn": "zhk Krasna polyana-1"
+    },
+    {
+      "id": 264,
+      "cityID": 41,
+      "name": "жк Лагера",
+      "nameEn": "zhk Lagera"
+    },
+    {
+      "id": 279,
+      "cityID": 41,
+      "name": "кв. Малашевци",
+      "nameEn": "kv. Malashevtsi"
+    },
+    {
+      "id": 280,
+      "cityID": 41,
+      "name": "кв. Малинова долина",
+      "nameEn": "kv. Malinova dolina"
+    },
+    {
+      "id": 281,
+      "cityID": 41,
+      "name": "кв. Манастирски ливади - Запад",
+      "nameEn": "kv. Manastirski livadi - Zapad"
+    },
+    {
+      "id": 283,
+      "cityID": 41,
+      "name": "кв. Младост-1А",
+      "nameEn": "kv. Mladost-1A"
+    },
+    {
+      "id": 286,
+      "cityID": 41,
+      "name": "кв. Надежда 1",
+      "nameEn": "kv. Nadezhda 1"
+    },
+    {
+      "id": 287,
+      "cityID": 41,
+      "name": "кв. Надежда 2",
+      "nameEn": "kv. Nadezhda 2"
+    },
+    {
+      "id": 289,
+      "cityID": 41,
+      "name": "кв. Надежда 3",
+      "nameEn": "kv. Nadezhda 3"
+    },
+    {
+      "id": 290,
+      "cityID": 41,
+      "name": "кв. Надежда 5 (Връбница-1)",
+      "nameEn": "kv. Nadezhda 5 (Vrabnitsa-1)"
+    },
+    {
+      "id": 291,
+      "cityID": 41,
+      "name": "кв. Надежда 4",
+      "nameEn": "kv. Nadezhda 4"
+    },
+    {
+      "id": 292,
+      "cityID": 41,
+      "name": "кв. Надежда 6 (Връбница-2)",
+      "nameEn": "kv. Nadezhda 6 (Vrabnitsa-2)"
+    },
+    {
+      "id": 293,
+      "cityID": 41,
+      "name": "кв. Обеля",
+      "nameEn": "kv. Obelya"
+    },
+    {
+      "id": 294,
+      "cityID": 41,
+      "name": "кв. Обеля 1",
+      "nameEn": "kv. Obelya 1"
+    },
+    {
+      "id": 295,
+      "cityID": 41,
+      "name": "кв. Обеля 2",
+      "nameEn": "kv. Obelya 2"
+    },
+    {
+      "id": 297,
+      "cityID": 41,
+      "name": "кв. Овча купел 1",
+      "nameEn": "kv. Ovcha kupel 1"
+    },
+    {
+      "id": 310,
+      "cityID": 41,
+      "name": "кв. Суходол",
+      "nameEn": "kv. Suhodol"
+    },
+    {
+      "id": 314,
+      "cityID": 41,
+      "name": "кв. Орландовци",
+      "nameEn": "kv. Orlandovtsi"
+    },
+    {
+      "id": 320,
+      "cityID": 41,
+      "name": "жк Студентски град",
+      "nameEn": "jk Studentski grad"
+    },
+    {
+      "id": 362,
+      "cityID": 41,
+      "name": "жк Света Троица",
+      "nameEn": "jk Sveta Troitsa"
+    },
+    {
+      "id": 363,
+      "cityID": 41,
+      "name": "жк Славия",
+      "nameEn": "jk Slaviya"
+    },
+    {
+      "id": 364,
+      "cityID": 41,
+      "name": "жк Сердика",
+      "nameEn": "jk Serdika"
+    },
+    {
+      "id": 366,
+      "cityID": 41,
+      "name": "Аерогара - Летище София",
+      "nameEn": "Aerogara - Letishte Sofia"
+    },
+    {
+      "id": 369,
+      "cityID": 41,
+      "name": "кв. Димитър Миленков",
+      "nameEn": "kv. Dimityr Milenkov"
+    },
+    {
+      "id": 373,
+      "cityID": 41,
+      "name": "кв. Подуяне",
+      "nameEn": "kv. Poduyane"
+    },
+    {
+      "id": 375,
+      "cityID": 41,
+      "name": "кв. Разсадника",
+      "nameEn": "kv. Razsadnika"
+    },
+    {
+      "id": 376,
+      "cityID": 41,
+      "name": "кв. Република 1",
+      "nameEn": "kv. Republika 1"
+    },
+    {
+      "id": 378,
+      "cityID": 41,
+      "name": "кв. Сеславци",
+      "nameEn": "kv. Seslavtsi"
+    },
+    {
+      "id": 379,
+      "cityID": 41,
+      "name": "кв. Симеоново",
+      "nameEn": "kv. Simeonovo"
+    },
+    {
+      "id": 381,
+      "cityID": 41,
+      "name": "кв. Толстой",
+      "nameEn": "kv. Tolstoy"
+    },
+    {
+      "id": 383,
+      "cityID": 41,
+      "name": "жк Триъгълника-Надежда",
+      "nameEn": "zhk Triygylnika- Nadejda"
+    },
+    {
+      "id": 384,
+      "cityID": 41,
+      "name": "кв. Факултета",
+      "nameEn": "kv. Fakulteta"
+    },
+    {
+      "id": 385,
+      "cityID": 41,
+      "name": "кв. Филиповци",
+      "nameEn": "kv. Filipovtsi"
+    },
+    {
+      "id": 386,
+      "cityID": 41,
+      "name": "Централна жп гара - бул. Княгиня Маия Луиза 102а",
+      "nameEn": "Centralna zhp gara"
+    },
+    {
+      "id": 482,
+      "cityID": 41,
+      "name": "жк Връбница-1",
+      "nameEn": "zhk Vrabnitsa-1"
+    },
+    {
+      "id": 483,
+      "cityID": 41,
+      "name": "жк Връбница-2",
+      "nameEn": "zhk Vrabnitsa-2"
+    },
+    {
+      "id": 561,
+      "cityID": 41,
+      "name": "кв. Полигона",
+      "nameEn": "kv. Poligona"
+    },
+    {
+      "id": 2145,
+      "cityID": 41,
+      "name": "кв. Барите",
+      "nameEn": "kv. Barite"
+    },
+    {
+      "id": 2152,
+      "cityID": 41,
+      "name": "жп гара Север - бул. Рожен",
+      "nameEn": "zhp gara Sever"
+    },
+    {
+      "id": 2154,
+      "cityID": 41,
+      "name": "жк Градина",
+      "nameEn": "zhk Gradina"
+    },
+    {
+      "id": 2157,
+      "cityID": 41,
+      "name": "жк Фондови жилища",
+      "nameEn": "zhk Fondovi zhilishta"
+    },
+    {
+      "id": 2162,
+      "cityID": 41,
+      "name": "вз Килиите - кв. Княжво",
+      "nameEn": "vz Kiliite - kv. Knyazhevo"
+    },
+    {
+      "id": 2163,
+      "cityID": 41,
+      "name": "стадион Локомотив",
+      "nameEn": "stadion Lokomotiv"
+    },
+    {
+      "id": 2172,
+      "cityID": 41,
+      "name": "стадион Раковски",
+      "nameEn": "stadion Rakovski"
+    },
+    {
+      "id": 2174,
+      "cityID": 41,
+      "name": "Северен парк",
+      "nameEn": "Severen park"
+    },
+    {
+      "id": 2176,
+      "cityID": 41,
+      "name": "местност Смърдана",
+      "nameEn": "mestnost Smyrdana"
+    },
+    {
+      "id": 2177,
+      "cityID": 41,
+      "name": "стадион Българска армия",
+      "nameEn": "stadion Bylgarska armiya"
+    },
+    {
+      "id": 2187,
+      "cityID": 41,
+      "name": "кв. Толева махала",
+      "nameEn": "kv. Toleva mahala"
+    },
+    {
+      "id": 2189,
+      "cityID": 41,
+      "name": "Спортна зала Универсиада",
+      "nameEn": "Sportna zala Universiada"
+    },
+    {
+      "id": 2190,
+      "cityID": 41,
+      "name": "Спортна зала Фестивална",
+      "nameEn": "Sportna zala Festivalna"
+    },
+    {
+      "id": 2193,
+      "cityID": 41,
+      "name": "жг Южен парк",
+      "nameEn": "zhg Yuzhen park"
+    },
+    {
+      "id": 2205,
+      "cityID": 41,
+      "name": "вз Врана-Лозен-Триъгълника",
+      "nameEn": "vz Vrana-Lozen-Triagalnika"
+    },
+    {
+      "id": 2208,
+      "cityID": 41,
+      "name": "Промишлена зона Илиянци",
+      "nameEn": "Promishlena zona Iliyantsi"
+    },
+    {
+      "id": 2214,
+      "cityID": 41,
+      "name": "кв. Ботунец 2",
+      "nameEn": "zh.k. Botunets 2"
+    },
+    {
+      "id": 2749,
+      "cityID": 41,
+      "name": "кв. Христо Смирненски",
+      "nameEn": "kv. Hristo Smirnenski"
+    },
+    {
+      "id": 2834,
+      "cityID": 41,
+      "name": "кв. Павлово",
+      "nameEn": "kv. Pavlovo"
+    },
+    {
+      "id": 3020,
+      "cityID": 41,
+      "name": "жк Свобода",
+      "nameEn": "jk Svoboda"
+    },
+    {
+      "id": 12464,
+      "cityID": 41,
+      "name": "Бизнес Парк София - кв. Младост-4",
+      "nameEn": "Biznes Park Sofia - kv. Mladost-4"
+    },
+    {
+      "id": 14841,
+      "cityID": 41,
+      "name": "жк Бъкстон",
+      "nameEn": "zhk Bakston"
+    },
+    {
+      "id": 17568,
+      "cityID": 41,
+      "name": "кв. Васил Левски",
+      "nameEn": "kv Vasil Levski"
+    },
+    {
+      "id": 17573,
+      "cityID": 41,
+      "name": "жк Левски-В",
+      "nameEn": "zhk Levski-V"
+    },
+    {
+      "id": 17601,
+      "cityID": 41,
+      "name": "кв. Редута",
+      "nameEn": "kv. Reduta"
+    },
+    {
+      "id": 17701,
+      "cityID": 41,
+      "name": "жк Гоце Делчев",
+      "nameEn": "zhk Gotse Delchev"
+    },
+    {
+      "id": 17716,
+      "cityID": 41,
+      "name": "жк Левски-Г",
+      "nameEn": "zhk Levski-G"
+    },
+    {
+      "id": 17735,
+      "cityID": 41,
+      "name": "жк  Борово",
+      "nameEn": "zhk Borovo"
+    },
+    {
+      "id": 17761,
+      "cityID": 41,
+      "name": "жк Лозенец",
+      "nameEn": "zhk Lozenets"
+    },
+    {
+      "id": 17784,
+      "cityID": 41,
+      "name": "кв. Требич",
+      "nameEn": "kv. Trebich"
+    },
+    {
+      "id": 18103,
+      "cityID": 41,
+      "name": "кв. Витоша",
+      "nameEn": "kv. Vitosha"
+    },
+    {
+      "id": 18364,
+      "cityID": 41,
+      "name": "кв. Модерно Предградие",
+      "nameEn": "kv. Moderno Predgradie"
+    },
+    {
+      "id": 18418,
+      "cityID": 41,
+      "name": "кв. Челопечене",
+      "nameEn": "kv. Chelopechene"
+    },
+    {
+      "id": 48311,
+      "cityID": 41,
+      "name": "жк Красно село",
+      "nameEn": "zhk Krasno selo"
+    },
+    {
+      "id": 48317,
+      "cityID": 41,
+      "name": "жк Сухата река",
+      "nameEn": "jk Suhata reka"
+    },
+    {
+      "id": 48318,
+      "cityID": 41,
+      "name": "жк Люлин-4",
+      "nameEn": "zhk Lulin-4"
+    },
+    {
+      "id": 48320,
+      "cityID": 41,
+      "name": "жк Дървеница",
+      "nameEn": "zhk Darvenitsa"
+    },
+    {
+      "id": 48333,
+      "cityID": 41,
+      "name": "жк Люлин-8",
+      "nameEn": "zhk Lulin-8"
+    },
+    {
+      "id": 48337,
+      "cityID": 41,
+      "name": "кв. Мусагеница",
+      "nameEn": "kv. Musagenica"
+    },
+    {
+      "id": 48345,
+      "cityID": 41,
+      "name": "жк Камбаните",
+      "nameEn": "jk Kambanite"
+    },
+    {
+      "id": 48373,
+      "cityID": 41,
+      "name": "жк Люлин-1",
+      "nameEn": "zhk Lulin-1"
+    },
+    {
+      "id": 48375,
+      "cityID": 41,
+      "name": "жк Люлин-2",
+      "nameEn": "zhk Lulin-2"
+    },
+    {
+      "id": 48376,
+      "cityID": 41,
+      "name": "жк Люлин-3",
+      "nameEn": "zhk Lulin-3"
+    },
+    {
+      "id": 48377,
+      "cityID": 41,
+      "name": "жк Люлин-5",
+      "nameEn": "zhk Lulin-5"
+    },
+    {
+      "id": 48378,
+      "cityID": 41,
+      "name": "жк Люлин-6",
+      "nameEn": "zhk Lulin-6"
+    },
+    {
+      "id": 48379,
+      "cityID": 41,
+      "name": "жк Люлин-7",
+      "nameEn": "zhk Lulin-7"
+    },
+    {
+      "id": 48380,
+      "cityID": 41,
+      "name": "жк Люлин-9",
+      "nameEn": "zhk Lulin-9"
+    },
+    {
+      "id": 48381,
+      "cityID": 41,
+      "name": "жк Люлин-10",
+      "nameEn": "zhk Lulin-10"
+    },
+    {
+      "id": 48398,
+      "cityID": 41,
+      "name": "Промишлена зона Орион",
+      "nameEn": "Promi[lena zona Orion"
+    },
+    {
+      "id": 48654,
+      "cityID": 41,
+      "name": "вз Бункера",
+      "nameEn": "vz Bunkera"
+    },
+    {
+      "id": 48659,
+      "cityID": 41,
+      "name": "кв. Кремиковци",
+      "nameEn": "kv. Kremikovci"
+    },
+    {
+      "id": 48667,
+      "cityID": 41,
+      "name": "кв. Абдовица",
+      "nameEn": "kv. Abdovica"
+    },
+    {
+      "id": 48730,
+      "cityID": 41,
+      "name": "жк София парк",
+      "nameEn": "jk Sofia park"
+    },
+    {
+      "id": 48798,
+      "cityID": 41,
+      "name": "жк Яворов",
+      "nameEn": "zhk Yavorov"
+    },
+    {
+      "id": 48866,
+      "cityID": 41,
+      "name": "Комплекс Резиденшъл парк Симеоново",
+      "nameEn": "Kompleks Rezidenshal park Simeonovo"
+    },
+    {
+      "id": 48940,
+      "cityID": 41,
+      "name": "кв. Карпузица",
+      "nameEn": "kv. Karpuzica"
+    },
+    {
+      "id": 49009,
+      "cityID": 41,
+      "name": "жк Красна поляна-2",
+      "nameEn": "zhk Krasna polqna-2"
+    },
+    {
+      "id": 49010,
+      "cityID": 41,
+      "name": "жк Красна поляна-3",
+      "nameEn": "zhk Krasna polqna-3"
+    },
+    {
+      "id": 49013,
+      "cityID": 41,
+      "name": "Комплекс Белгравия - кв. Студентски град",
+      "nameEn": "Kompleks Belgravia - kv. Studentski grad"
+    },
+    {
+      "id": 49014,
+      "cityID": 41,
+      "name": "Комплекс Маунтин Вю - жк Студентски град",
+      "nameEn": "Kompleks Mauntin Vyu - zhk Studentski grad"
+    },
+    {
+      "id": 49015,
+      "cityID": 41,
+      "name": "Комплекс Оркид Хилс - кв. Студентски град",
+      "nameEn": "Kompleks Orkid Hils - kv. Studentski grad"
+    },
+    {
+      "id": 49020,
+      "cityID": 41,
+      "name": "кв. Ботунец 1",
+      "nameEn": "kv. Botunets 1"
+    },
+    {
+      "id": 49039,
+      "cityID": 41,
+      "name": "кв. Крива река",
+      "nameEn": "kv. Kriva reka"
+    },
+    {
+      "id": 49056,
+      "cityID": 41,
+      "name": "жк Бокар",
+      "nameEn": "zhk Bokar"
+    },
+    {
+      "id": 49180,
+      "cityID": 41,
+      "name": "вз Малинова долина - Герена",
+      "nameEn": "vz Malinova dolina - Gerena"
+    },
+    {
+      "id": 49220,
+      "cityID": 41,
+      "name": "кв. Кръстова вада",
+      "nameEn": "kv. Krystova vada"
+    },
+    {
+      "id": 49221,
+      "cityID": 41,
+      "name": "кв. Христо Ботев",
+      "nameEn": "kv. Hristo Botev"
+    },
+    {
+      "id": 49321,
+      "cityID": 41,
+      "name": "Комплекс Витоша Вилидж - Симеоново",
+      "nameEn": "Kompleks Vitosha Vilidge - Simeonovo"
+    },
+    {
+      "id": 49323,
+      "cityID": 41,
+      "name": "вз Врана-Герман",
+      "nameEn": "vz Vrana-German"
+    },
+    {
+      "id": 49324,
+      "cityID": 41,
+      "name": "вз Малинова Долина",
+      "nameEn": "vz Malinova dolina"
+    },
+    {
+      "id": 49325,
+      "cityID": 41,
+      "name": "жк Зона Б-5-3",
+      "nameEn": "zhk Zona B-5-3"
+    },
+    {
+      "id": 49326,
+      "cityID": 41,
+      "name": "жк София Вилидж",
+      "nameEn": "zhk Sofia Vilidzh"
+    },
+    {
+      "id": 49327,
+      "cityID": 41,
+      "name": "вз Бояна",
+      "nameEn": "vz Boyana"
+    },
+    {
+      "id": 49328,
+      "cityID": 41,
+      "name": "вз Горна баня",
+      "nameEn": "vz Gorna Banya"
+    },
+    {
+      "id": 49329,
+      "cityID": 41,
+      "name": "жк Горубляне (Експериментален)",
+      "nameEn": "zhk Gorublyane (Eksperimentalen)"
+    },
+    {
+      "id": 49330,
+      "cityID": 41,
+      "name": "жк Кремиковци",
+      "nameEn": "zhk Kremikovci"
+    },
+    {
+      "id": 49331,
+      "cityID": 41,
+      "name": "жк Малинова Долина",
+      "nameEn": "zhk Malinova dolina"
+    },
+    {
+      "id": 49332,
+      "cityID": 41,
+      "name": "кв. Манастирски ливади - Изток",
+      "nameEn": "kv. Manastirski livadi - Iztok"
+    },
+    {
+      "id": 49333,
+      "cityID": 41,
+      "name": "кв. Овча Купел",
+      "nameEn": "kv. Ovcha kupel"
+    },
+    {
+      "id": 49334,
+      "cityID": 41,
+      "name": "кв. Република 2",
+      "nameEn": "kv. Republika 2"
+    },
+    {
+      "id": 49335,
+      "cityID": 41,
+      "name": "жк Филиповци",
+      "nameEn": "zhk Filipovtsi"
+    },
+    {
+      "id": 49336,
+      "cityID": 41,
+      "name": "Комплекс Манастира - Симеоново",
+      "nameEn": "Kompleks Manastira - Simeonovo"
+    },
+    {
+      "id": 49337,
+      "cityID": 41,
+      "name": "местност Долни Смърдан",
+      "nameEn": "mestnost Dolni Smardan"
+    },
+    {
+      "id": 49338,
+      "cityID": 41,
+      "name": "Промишлена зона Модерно Предградие",
+      "nameEn": "Promishlena zona Moderno Predgradie"
+    },
+    {
+      "id": 49339,
+      "cityID": 41,
+      "name": "Промишлена зона Военна рампа",
+      "nameEn": "Promishlena zona Voenna rampa"
+    },
+    {
+      "id": 49340,
+      "cityID": 41,
+      "name": "Промишлена зона Хаджи Димитър",
+      "nameEn": "Promishlena zona Hadzhi Dimitar"
+    },
+    {
+      "id": 49342,
+      "cityID": 41,
+      "name": "Промишлена зона Слатина",
+      "nameEn": "Promishlena zona Slatina"
+    },
+    {
+      "id": 49343,
+      "cityID": 41,
+      "name": "Промишлена зона Искър (Гара Искър)",
+      "nameEn": "Promishlena zona Iskar (Gar Iskar)"
+    },
+    {
+      "id": 49344,
+      "cityID": 41,
+      "name": "Промишлена зона Изток (Горубляне)",
+      "nameEn": "Promishlena zona Iztok (Gorublyane)"
+    },
+    {
+      "id": 49345,
+      "cityID": 41,
+      "name": "Промишлена зона Хладилника",
+      "nameEn": "Promishlena zona Hladilnika"
+    },
+    {
+      "id": 49346,
+      "cityID": 41,
+      "name": "Комплекс ЖП Блокове",
+      "nameEn": "Kompleks ZHP Blokove"
+    },
+    {
+      "id": 49347,
+      "cityID": 41,
+      "name": "вз Американски колеж",
+      "nameEn": "vz Amerikanski kolezh"
+    },
+    {
+      "id": 49348,
+      "cityID": 41,
+      "name": "вз Беловодски път",
+      "nameEn": "vz Belovodski pat"
+    },
+    {
+      "id": 49349,
+      "cityID": 41,
+      "name": "Местност Гърдова глава",
+      "nameEn": "Mestnost Gardova glava"
+    },
+    {
+      "id": 49350,
+      "cityID": 41,
+      "name": "вз Габаро-Азмата",
+      "nameEn": "vz Gabaro-Azmata"
+    },
+    {
+      "id": 49351,
+      "cityID": 41,
+      "name": "вз Симеоново-Драгалевци",
+      "nameEn": "vz Simeonovo-Dragalevtsi"
+    },
+    {
+      "id": 49352,
+      "cityID": 41,
+      "name": "вз Симеоново - север",
+      "nameEn": "vz Simeonovo - sever"
+    },
+    {
+      "id": 49353,
+      "cityID": 41,
+      "name": "вз Симеоново - юг",
+      "nameEn": "vz Simeonovo - yug"
+    },
+    {
+      "id": 49354,
+      "cityID": 41,
+      "name": "вз Симеоново - изток",
+      "nameEn": "vz Simeonovo - iztok"
+    },
+    {
+      "id": 49355,
+      "cityID": 41,
+      "name": "жг Зоопарк",
+      "nameEn": "zhg Zoopark"
+    },
+    {
+      "id": 49356,
+      "cityID": 41,
+      "name": "жп гара Подуяне - бул. Мадрид 57",
+      "nameEn": "zhp gara Poduyane"
+    },
+    {
+      "id": 49357,
+      "cityID": 41,
+      "name": "жп гара Захарна Фабрика - ул. Крум Хр. Стоянов 1",
+      "nameEn": "zhp gara Zaharna Fabrika"
+    },
+    {
+      "id": 49358,
+      "cityID": 41,
+      "name": "жп гара Горна баня - кв. Горна баня",
+      "nameEn": "zhp gara Gorna banya"
+    },
+    {
+      "id": 49359,
+      "cityID": 41,
+      "name": "Централна Автогара - бул. Княгиня Мария Луиза 100",
+      "nameEn": "Tsentralna Avtogara"
+    },
+    {
+      "id": 49360,
+      "cityID": 41,
+      "name": "Автогара Сердика - бул. Княгиня Мария Луиза 102",
+      "nameEn": "Avtogara Serdika"
+    },
+    {
+      "id": 49361,
+      "cityID": 41,
+      "name": "Автогара Юг - бул. Драган Цанков 23",
+      "nameEn": "Avtogara Yug"
+    },
+    {
+      "id": 49362,
+      "cityID": 41,
+      "name": "Автогара Запад (Овча Купел) - бул. Цар Борис Трети 130",
+      "nameEn": "Avtogara Zapad"
+    },
+    {
+      "id": 49363,
+      "cityID": 41,
+      "name": "Централни Софийски гробища - ул. Каменоделска 11",
+      "nameEn": "Tsentralni Sofiyski grobishta"
+    },
+    {
+      "id": 49364,
+      "cityID": 41,
+      "name": "Малашевски гробища - ул. Резбарска 11",
+      "nameEn": "Malashevski grobishta"
+    },
+    {
+      "id": 49365,
+      "cityID": 41,
+      "name": "Боянски гробища - ул. Бояна парк 4",
+      "nameEn": "Boyanski grobishta"
+    },
+    {
+      "id": 49366,
+      "cityID": 41,
+      "name": "Южен парк",
+      "nameEn": "Yuzhen park"
+    },
+    {
+      "id": 49367,
+      "cityID": 41,
+      "name": "Ловен парк",
+      "nameEn": "Loven park"
+    },
+    {
+      "id": 49368,
+      "cityID": 41,
+      "name": "Борисова градина",
+      "nameEn": "Borisova gradina"
+    },
+    {
+      "id": 49370,
+      "cityID": 41,
+      "name": "Парк Въртопо",
+      "nameEn": "Park Vartopo"
+    },
+    {
+      "id": 49371,
+      "cityID": 41,
+      "name": "Парк Врана",
+      "nameEn": "Park Vrana"
+    },
+    {
+      "id": 49372,
+      "cityID": 41,
+      "name": "стадион Академик",
+      "nameEn": "stadion Akademik"
+    },
+    {
+      "id": 49373,
+      "cityID": 41,
+      "name": "стадион Георги Аспарухов",
+      "nameEn": "stadion Georgi Asparuhov"
+    },
+    {
+      "id": 49374,
+      "cityID": 41,
+      "name": "стадион Септември",
+      "nameEn": "stadion Septemvri"
+    },
+    {
+      "id": 49375,
+      "cityID": 41,
+      "name": "стадион Славия",
+      "nameEn": "stadion Slavia"
+    },
+    {
+      "id": 49376,
+      "cityID": 41,
+      "name": "Национален стадион Васил Левски",
+      "nameEn": "Natsionalen stadion Vasil Levski"
+    },
+    {
+      "id": 49377,
+      "cityID": 41,
+      "name": "Спортна зала Христо Ботев",
+      "nameEn": "Sportna zala Hristo Botev"
+    },
+    {
+      "id": 49378,
+      "cityID": 41,
+      "name": "Спортна зала Арена Армеец",
+      "nameEn": "Sporna zala Arena Armeets"
+    },
+    {
+      "id": 49379,
+      "cityID": 41,
+      "name": "Зимен дворец на спорта",
+      "nameEn": "Zimen dvorets na sporta"
+    },
+    {
+      "id": 49380,
+      "cityID": 41,
+      "name": "Мол на София - бул. Александър Стамболийски 101",
+      "nameEn": "Mall of Sofia"
+    },
+    {
+      "id": 49381,
+      "cityID": 41,
+      "name": "Сердика Център - бул. Ситняково 48",
+      "nameEn": "Serdika Center"
+    },
+    {
+      "id": 49382,
+      "cityID": 41,
+      "name": "България мол - бул. България 69",
+      "nameEn": "Bulgaria mall"
+    },
+    {
+      "id": 49383,
+      "cityID": 41,
+      "name": "Сити Център София - бул. Арсеналски 2",
+      "nameEn": "City Center Sofia"
+    },
+    {
+      "id": 49384,
+      "cityID": 41,
+      "name": "Дъ Мол - бул. Цариградско шосе 115",
+      "nameEn": "The Mall"
+    },
+    {
+      "id": 49385,
+      "cityID": 41,
+      "name": "Скай Сити Мол - ул. Коста Лулчев 52",
+      "nameEn": "Sky City Mall"
+    },
+    {
+      "id": 49386,
+      "cityID": 41,
+      "name": "София Ринг мол - Околовръстен път 214",
+      "nameEn": "Sofia Ring mall"
+    },
+    {
+      "id": 49387,
+      "cityID": 41,
+      "name": "Парадайс Център - бул. Черни връх 100",
+      "nameEn": "Paradice Center"
+    },
+    {
+      "id": 49388,
+      "cityID": 41,
+      "name": "ЦУМ - бул. Княгиня Мария Луиза 2",
+      "nameEn": "CUM"
+    },
+    {
+      "id": 49389,
+      "cityID": 41,
+      "name": "София Аутлет център - бул. Царирадско шосе 92а",
+      "nameEn": "Sofia Outlet Center"
+    },
+    {
+      "id": 49390,
+      "cityID": 41,
+      "name": "Комплекс Флора Парк - кв. Манастирски ливади - изток",
+      "nameEn": "Kompleks Flora Park"
+    },
+    {
+      "id": 49391,
+      "cityID": 41,
+      "name": "Комплекс Ембаси Суитс - кв. Манастирски ливади-изток",
+      "nameEn": "Kompleks Embasy Suits"
+    },
+    {
+      "id": 49392,
+      "cityID": 41,
+      "name": "Комплекс 20 бора - кв. Манастирски ливади - изток",
+      "nameEn": "Kompleks 20 bora"
+    },
+    {
+      "id": 49393,
+      "cityID": 41,
+      "name": "Комплекс Уинслоу Гардънс - кв. Манастирски ливади - изток",
+      "nameEn": "Kompleks Winslou Gardens"
+    },
+    {
+      "id": 49394,
+      "cityID": 41,
+      "name": "Комплекс Панорама Бояна - м. Гърдова глава",
+      "nameEn": "Kompleks Panorama Boyana"
+    },
+    {
+      "id": 49395,
+      "cityID": 41,
+      "name": "Комплекс Еделвайс - кв. Бояна",
+      "nameEn": "Kompleks Edelvays"
+    },
+    {
+      "id": 49396,
+      "cityID": 41,
+      "name": "Комплекс Монте Бояна - кв. Бояна",
+      "nameEn": "Kompleks Monte Boyana"
+    },
+    {
+      "id": 49397,
+      "cityID": 41,
+      "name": "Комплекс Бояна Фентъзи - кв. Бояна",
+      "nameEn": "Kompleks Boyana Fantasy"
+    },
+    {
+      "id": 49398,
+      "cityID": 41,
+      "name": "Комплекс Мирамонте - кв. Драгалевци",
+      "nameEn": "Kompleks Miramonte"
+    },
+    {
+      "id": 49399,
+      "cityID": 41,
+      "name": "Комплекс Ботаника - кв. Драгалевци",
+      "nameEn": "Kompleks Botanika"
+    },
+    {
+      "id": 49400,
+      "cityID": 41,
+      "name": "Комплекс Водолей 1 - кв. Драгалевци",
+      "nameEn": "Kompleks Vodoley"
+    },
+    {
+      "id": 49401,
+      "cityID": 41,
+      "name": "Комплекс Водолей 2 - кв. Драгалевци",
+      "nameEn": "Kompleks Vodoley"
+    },
+    {
+      "id": 49402,
+      "cityID": 41,
+      "name": "Комплекс Аристократ - вз. Симеоново-Драгалевци",
+      "nameEn": "Kompleks Aristokrat"
+    },
+    {
+      "id": 49403,
+      "cityID": 41,
+      "name": "Комплекс Арена Гардън - вз. Симеоново - Драгалевци",
+      "nameEn": "Kompleks Arena Garden"
+    },
+    {
+      "id": 49404,
+      "cityID": 41,
+      "name": "Комплекс Симеоново Ривър Парк -  кв. Симеоново",
+      "nameEn": "Kompleks Simeonovo River Park"
+    },
+    {
+      "id": 49405,
+      "cityID": 41,
+      "name": "Комплекс София Скай - вз. Симеоново - изток",
+      "nameEn": "Kompleks Sofia Sky"
+    },
+    {
+      "id": 49406,
+      "cityID": 41,
+      "name": "Комплекс Маунтин Вю Ризов - вз. Малинова долина",
+      "nameEn": "Kompleks Mauntin View Rizov"
+    },
+    {
+      "id": 49407,
+      "cityID": 41,
+      "name": "Комплекс Бяла Черква - вз. Косанин дол",
+      "nameEn": "Kompleks Bjala Cherkva"
+    },
+    {
+      "id": 49408,
+      "cityID": 41,
+      "name": "Комплекс Бел Вали - вз. Малинова долина",
+      "nameEn": "Kompleks Bel Vali"
+    },
+    {
+      "id": 49409,
+      "cityID": 41,
+      "name": "Комплекс Буена Виста - жк Градина",
+      "nameEn": "Kompleks Buena Vista"
+    },
+    {
+      "id": 49410,
+      "cityID": 41,
+      "name": "Комплекс Сити Жарден - кв. Витоша",
+      "nameEn": "Kompleks Sity Zharden"
+    },
+    {
+      "id": 49411,
+      "cityID": 41,
+      "name": "Комплекс Перлата - кв. Витоша",
+      "nameEn": "Kompleks  Perlata"
+    },
+    {
+      "id": 49412,
+      "cityID": 41,
+      "name": "махала Япаджа",
+      "nameEn": "mahala Yapadzha"
+    },
+    {
+      "id": 49413,
+      "cityID": 41,
+      "name": "махала Батареята",
+      "nameEn": "mahala Batareyata"
+    },
+    {
+      "id": 49414,
+      "cityID": 41,
+      "name": "местност Нова махала - кв. Враждебна",
+      "nameEn": "mestnost Nova mahala - kv. Vrazhdebna"
+    },
+    {
+      "id": 49415,
+      "cityID": 41,
+      "name": "жк Света Магдалена",
+      "nameEn": "zhk Sveta Magdalena"
+    },
+    {
+      "id": 49416,
+      "cityID": 41,
+      "name": "летище София Север",
+      "nameEn": "letishte Sofia Sever"
+    },
+    {
+      "id": 49419,
+      "cityID": 41,
+      "name": "кв. Мотописта",
+      "nameEn": "kv. Motopista"
+    },
+    {
+      "id": 49454,
+      "cityID": 41,
+      "name": "кв. Толева махала (бивш кв. Дружба 999)",
+      "nameEn": "kv. Toleva mahala ( bivsh kv. Druzhba 999)"
+    }
+  ]
+}
