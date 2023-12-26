@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.013266">
+    <testsuite name="Econt Test Suite" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.013266">
+      <testsuite name="VasilDakov\EcontTest\EcontTest" file="/Users/vasdakov/Dev/vasildakov/econt/test/EcontTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.013266">
+        <testcase name="itCanBeCreated" class="VasilDakov\EcontTest\EcontTest" classname="VasilDakov.EcontTest.EcontTest" file="/Users/vasdakov/Dev/vasildakov/econt/test/EcontTest.php" line="14" assertions="1" time="0.013266"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
