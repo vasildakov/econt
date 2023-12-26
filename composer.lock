@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "54551fc30b09641a182e007102c73ed4",
+    "content-hash": "7b4d769d4a5f2d82e7f4661336d60a51",
     "packages": [
         {
             "name": "clue/stream-filter",
@@ -6340,7 +6340,7 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "php-coveralls/php-coveralls": 20,
         "squizlabs/php_codesniffer": 20,
@@ -6350,10 +6350,10 @@
         "friendsofphp/php-cs-fixer": 20,
         "phpmd/phpmd": 20
     },
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "~8.0 || ~8.1 || ~8.2 || ~8.3"
+        "php": ">=8.1"
     },
     "platform-dev": [],
     "platform-overrides": {
