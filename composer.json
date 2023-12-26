@@ -2,6 +2,7 @@
     "name": "vasildakov/econt",
     "description": "Econt API Client",
     "keywords": ["api", "econt", "ekont", "shipping"],
+    "homepage": "https://github.com/vasildakov/econt",
     "type": "library",
     "authors": [
         {
@@ -9,8 +10,14 @@
             "email": "vasildakov@gmail.com"
         }
     ],
+    "support": {
+        "issues": "https://github.com/vasildakov/econt/issues",
+        "security": "https://github.com/vasildakov/econt/security/policy"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
     "require": {
-        "php": "~8.0 || ~8.1 || ~8.2 || ~8.3",
+        "php": ">=8.1",
         "psr/http-message": "^2.0",
         "psr/http-factory": "^1.0",
         "psr/http-client": "^1.0",
