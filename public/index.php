@@ -1,11 +1,15 @@
 <?php
 
+declare(strict_types=1);
+
 use GuzzleHttp\Client;
 use Laminas\Diactoros\RequestFactory;
 use Psr\Http\Client\ClientInterface;
 use Psr\Http\Message\RequestFactoryInterface;
 use VasilDakov\Econt\Configuration;
 use VasilDakov\Econt\Econt;
+use VasilDakov\Econt\Request\GetCitiesRequest;
+use VasilDakov\Econt\Response\GetCitiesResponseFactory;
 
 chdir(dirname(__DIR__));
 
@@ -32,4 +36,9 @@ $factory = new RequestFactory();
 
 $econt = new Econt($configuration, $client, $factory);
 
-dump(json_decode($econt->getClientProfiles()));
+
+$json = $econt->getCities(new GetCitiesRequest(countryCode: 'BGR'));
+$object = (new GetCitiesResponseFactory())($json);
+
+dump($object->findById(39));
+dump($object->findByName('Сливен'));

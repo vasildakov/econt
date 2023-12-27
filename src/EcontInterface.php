@@ -2,13 +2,15 @@
 
 namespace VasilDakov\Econt;
 
+use VasilDakov\Econt\Request;
+
 interface EcontInterface
 {
     public function getClientProfiles(): string;
 
     public function getCountries(): string;
 
-    public function getCities(array $data): string;
+    public function getCities(Request\GetCitiesRequest $object): string;
 
     public function getOffices(array $data): string;
 

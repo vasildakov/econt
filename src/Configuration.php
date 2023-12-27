@@ -2,7 +2,7 @@
 
 namespace VasilDakov\Econt;
 
-final class Configuration
+final readonly class Configuration
 {
     public function __construct(
         public string $username,

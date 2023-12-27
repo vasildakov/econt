@@ -9,6 +9,7 @@ use Psr\Http\Client\ClientExceptionInterface;
 use Psr\Http\Client\ClientInterface;
 use Psr\Http\Message\RequestFactoryInterface;
 use Psr\Http\Message\RequestInterface;
+use VasilDakov\Econt\Request;
 
 /**
  * Class Econt
@@ -61,14 +62,12 @@ final class Econt implements EcontInterface
     /**
      * @throws ClientExceptionInterface
      */
-    public function getCities(array $data): string
+    public function getCities(Request\GetCitiesRequest $object): string
     {
         $request = $this->createRequest(
             RequestMethodInterface::METHOD_POST,
             self::API_URL . '/ee/services/Nomenclatures/NomenclaturesService.getCities.json',
-            [
-                Constants::COUNTRY_CODE => $data['countryCode']
-            ]
+            $object->toArray()
         );
 
         $response = $this->client->sendRequest($request);
