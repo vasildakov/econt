@@ -41,4 +41,4 @@ $json = $econt->getCities(new GetCitiesRequest(countryCode: 'BGR'));
 $object = (new GetCitiesResponseFactory())($json);
 
 dump($object->findById(39));
-dump($object->findByName('Сливен'));
+dump($object->findByName('Бургас'));

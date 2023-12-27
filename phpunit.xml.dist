@@ -8,8 +8,11 @@
         </include>
     </coverage>
     <testsuites>
-        <testsuite name="Econt Test Suite">
-            <directory>./test</directory>
+        <testsuite name="Unit">
+            <directory>./test/Unit</directory>
+        </testsuite>
+        <testsuite name="Integration">
+            <directory>./test/Integration</directory>
         </testsuite>
     </testsuites>
     <logging>

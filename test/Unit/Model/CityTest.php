@@ -1,6 +1,6 @@
 <?php
 
-namespace VasilDakov\EcontTest\Model;
+namespace VasilDakov\EcontTest\Unit\Model;
 
 use PHPUnit\Framework\TestCase;
 use VasilDakov\Econt\Model\City;

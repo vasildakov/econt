@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace VasilDakov\EcontTest\Model;
+namespace VasilDakov\EcontTest\Unit\Model;
 
 use PHPUnit\Framework\TestCase;
 use VasilDakov\Econt\Model\Country;
