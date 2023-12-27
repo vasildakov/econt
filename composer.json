@@ -17,7 +17,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "psr/http-message": "^2.0",
         "psr/http-factory": "^1.0",
         "psr/http-client": "^1.0",
@@ -30,14 +30,15 @@
         "guzzlehttp/guzzle": "^7.7"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5",
-        "php-coveralls/php-coveralls": "dev-master",
-        "squizlabs/php_codesniffer": "4.0.x-dev",
-        "theseer/phpdox": "dev-master",
-        "vimeo/psalm": "4.x-dev",
-        "psalm/plugin-phpunit": "dev-master",
         "friendsofphp/php-cs-fixer": "dev-master",
-        "phpmd/phpmd": "dev-master"
+        "php-coveralls/php-coveralls": "dev-master",
+        "phpmd/phpmd": "dev-master",
+        "phpunit/phpunit": "^9.5",
+        "psalm/plugin-phpunit": "dev-master",
+        "squizlabs/php_codesniffer": "4.0.x-dev",
+        "symfony/var-dumper": "^7.0",
+        "theseer/phpdox": "dev-master",
+        "vimeo/psalm": "4.x-dev"
     },
     "license": "MIT",
     "autoload": {

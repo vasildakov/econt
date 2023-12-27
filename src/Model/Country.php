@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace VasilDakov\Econt\Model;
 
 final class Country
@@ -28,5 +30,14 @@ final class Country
         list($id, $code2, $code3, $name, $nameEn, $isEU) = array_values($data);
 
         return new Country($id, $code2, $code3, $name, $nameEn, $isEU);
+    }
+
+    public static function fromArray2(array $data = []): Country
+    {
+        foreach (get_object_vars($obj = new self) as $property => $default) {
+            if (!array_key_exists($property, $data)) continue;
+            $obj->{$property} = $data[$property]; // assign value to object
+        }
+        return $obj;
     }
 }

@@ -1,11 +1,13 @@
 <?php
 
+declare(strict_types=1);
+
 namespace VasilDakov\EcontTest\Model;
 
 use PHPUnit\Framework\TestCase;
 use VasilDakov\Econt\Model\Country;
 
-class CountryTest extends TestCase
+final class CountryTest extends TestCase
 {
     /**
      * @test
