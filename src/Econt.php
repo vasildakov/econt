@@ -92,6 +92,9 @@ final class Econt implements EcontInterface
     }
 
 
+    /**
+     * @throws ClientExceptionInterface
+     */
     public function getStreets(Request\GetStreetsRequest $object): string
     {
         $request = $this->createRequest(
@@ -112,7 +115,9 @@ final class Econt implements EcontInterface
     }
 
 
-
+    /**
+     * @throws ClientExceptionInterface
+     */
     public function getShipmentStatuses(array $data): string
     {
         $request = $this->createRequest(
