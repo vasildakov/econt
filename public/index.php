@@ -45,8 +45,7 @@ dump($object->findById(41));
 dump($object->findByName('София'));
 */
 
-$json = $econt->getOffices(new GetOfficesRequest(countryCode: 'BGR', cityId: '41'));
-$object = (new GetOfficesResponseFactory())($json);
-foreach ($object->offices as $office) {
-    dump($office);
-}
+$json = $econt->getOffices(new GetOfficesRequest(countryCode: 'BGR', cityId: '39'));
+$response = (new GetOfficesResponseFactory())($json);
+
+dump($response);

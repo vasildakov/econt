@@ -1,11 +1,16 @@
 <?php
 
+declare(strict_types=1);
+
 namespace VasilDakov\Econt\Response;
 
 use VasilDakov\Econt\Exception\InvalidArgumentException;
 use VasilDakov\Econt\Serializer\SerializerFactory;
 
-class GetOfficesResponseFactory
+use function json_decode;
+use function json_last_error;
+
+final class GetOfficesResponseFactory
 {
     public function __invoke(string $json): GetOfficesResponse
     {

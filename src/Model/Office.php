@@ -35,6 +35,39 @@ readonly class Office
 
         #[Serializer\Type(Address::class)]
         public ?Address $address = null,
+
+        #[Serializer\Type('string')]
+        public ?string $info = null,
+
+        #[Serializer\Type('string')]
+        public ?string $currency = null,
+
+        #[Serializer\Type('string')]
+        public ?string $language = null,
+
+        #[Serializer\Type('int')]
+        public ?int $normalBusinessHoursFrom = null,
+
+        #[Serializer\Type('int')]
+        public ?int $normalBusinessHoursTo = null,
+
+        #[Serializer\Type('array')]
+        public ?array $shipmentTypes = null,
+
+        #[Serializer\Type('string')]
+        public ?string $partnerCode = null,
+
+        #[Serializer\Type('string')]
+        public ?string $hubCode = null,
+
+        #[Serializer\Type('string')]
+        public ?string $hubName = null,
+
+        #[Serializer\Type('string')]
+        public ?string $hubNameEn = null,
+
+        #[Serializer\Type('bool')]
+        public ?bool $isDrive = null,
     ){
     }
 }

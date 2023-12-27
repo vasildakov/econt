@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace VasilDakov\Econt\Serializer;
 
 use JMS\Serializer;
@@ -7,7 +9,7 @@ use JMS\Serializer\SerializationContext;
 use JMS\Serializer\SerializerInterface;
 use VasilDakov\Econt\Exception\ServiceNotCreatedException;
 
-class SerializerFactory
+final class SerializerFactory
 {
     /**
      * @return SerializerInterface
