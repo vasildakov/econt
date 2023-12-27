@@ -1,9 +1,16 @@
 <?php
 
+declare(strict_types=1);
+
 namespace VasilDakov\Econt;
 
 use VasilDakov\Econt\Request;
 
+/**
+ * EcontInterface
+ *
+ * @author Vasil Dakov <vasildakov@gmail.com>
+ */
 interface EcontInterface
 {
     public function getClientProfiles(): string;
@@ -12,9 +19,9 @@ interface EcontInterface
 
     public function getCities(Request\GetCitiesRequest $object): string;
 
-    public function getOffices(array $data): string;
+    public function getOffices(Request\GetOfficesRequest $object): string;
 
-    public function getStreets(array $data): string;
+    public function getStreets(Request\GetStreetsRequest $object): string;
 
     public function getQuarters(array $data): string;
 

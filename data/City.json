@@ -1,0 +1,19 @@
+{
+  "id": 603409,
+  "country": {
+    "id": null,
+    "code2": "LU",
+    "code3": "LUX",
+    "name": "Люксембург",
+    "nameEn": "Luxembourg",
+    "isEU": true
+  },
+  "postCode": "0",
+  "name": "Alscheid",
+  "nameEn": "Alscheid",
+  "regionName": "",
+  "regionNameEn": "",
+  "phoneCode": "0",
+  "location": null,
+  "expressCityDeliveries": false
+}

@@ -25,7 +25,11 @@ final class EcontTest extends TestCase
         //$this->client = $this->createMock(ClientInterface::class);
         //$this->factory = $this->createMock(RequestFactoryInterface::class);
 
-        $this->client = new Client();
+        $this->client = new Client([
+            'connect_timeout' => 6.18,
+            'timeout' => 3.14,
+            'debug' => false
+        ]);
         $this->factory = new RequestFactory();
 
         parent::setUp();
@@ -60,5 +64,11 @@ final class EcontTest extends TestCase
             client: $this->client,
             factory: $this->factory
         );
+    }
+
+    protected function tearDown(): void
+    {
+        sleep(2);
+        parent::tearDown();
     }
 }

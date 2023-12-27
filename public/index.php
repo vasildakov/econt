@@ -9,7 +9,9 @@ use Psr\Http\Message\RequestFactoryInterface;
 use VasilDakov\Econt\Configuration;
 use VasilDakov\Econt\Econt;
 use VasilDakov\Econt\Request\GetCitiesRequest;
+use VasilDakov\Econt\Request\GetOfficesRequest;
 use VasilDakov\Econt\Response\GetCitiesResponseFactory;
+use VasilDakov\Econt\Response\GetOfficesResponseFactory;
 
 chdir(dirname(__DIR__));
 
@@ -36,9 +38,15 @@ $factory = new RequestFactory();
 
 $econt = new Econt($configuration, $client, $factory);
 
-
+/*
 $json = $econt->getCities(new GetCitiesRequest(countryCode: 'BGR'));
 $object = (new GetCitiesResponseFactory())($json);
+dump($object->findById(41));
+dump($object->findByName('София'));
+*/
 
-dump($object->findById(39));
-dump($object->findByName('Бургас'));
+$json = $econt->getOffices(new GetOfficesRequest(countryCode: 'BGR', cityId: '41'));
+$object = (new GetOfficesResponseFactory())($json);
+foreach ($object->offices as $office) {
+    dump($office);
+}

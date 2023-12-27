@@ -75,21 +75,42 @@ final class Econt implements EcontInterface
         return $response->getBody()->getContents();
     }
 
-    public function getOffices(array $data): string
+    /**
+     * @throws ClientExceptionInterface
+     */
+    public function getOffices(Request\GetOfficesRequest $object): string
     {
         $request = $this->createRequest(
             RequestMethodInterface::METHOD_POST,
             self::API_URL . '/ee/services/Nomenclatures/NomenclaturesService.getOffices.json',
-            [
-                Constants::COUNTRY_CODE => $data['countryCode'],
-                Constants::CITY_ID => $data['cityId'],
-            ]
+            $object->toArray()
         );
 
         $response = $this->client->sendRequest($request);
 
         return $response->getBody()->getContents();
     }
+
+
+    public function getStreets(Request\GetStreetsRequest $object): string
+    {
+        $request = $this->createRequest(
+            RequestMethodInterface::METHOD_POST,
+            self::API_URL . '/ee/services/Nomenclatures/NomenclaturesService.getStreets.json',
+            $object->toArray()
+        );
+
+        $response = $this->client->sendRequest($request);
+
+        return $response->getBody()->getContents();
+    }
+
+
+    public function getQuarters(array $data): string
+    {
+        return '';
+    }
+
 
 
     public function getShipmentStatuses(array $data): string
@@ -129,15 +150,7 @@ final class Econt implements EcontInterface
         return $request;
     }
 
-    public function getStreets(array $data): string
-    {
-        return '';
-    }
 
-    public function getQuarters(array $data): string
-    {
-        return '';
-    }
 
     public function createLabel(array $data): string
     {

@@ -10,22 +10,22 @@ readonly class Country
 {
     public function __construct(
         #[Serializer\Type('int')]
-        public ?int $id,
+        public ?int $id = null,
 
         #[Serializer\Type('string')]
-        public ?string $code2,
+        public ?string $code2 = null,
 
         #[Serializer\Type('string')]
-        public ?string $code3,
+        public ?string $code3 = null,
 
         #[Serializer\Type('string')]
-        public ?string $name,
+        public ?string $name = null,
 
         #[Serializer\Type('string')]
-        public ?string $nameEn,
+        public ?string $nameEn = null,
 
         #[Serializer\Type('bool')]
-        public ?bool $isEU
+        public ?bool $isEU = null
     ) {
     }
 }

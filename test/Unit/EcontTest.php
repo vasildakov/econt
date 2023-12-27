@@ -1,10 +1,10 @@
 <?php
 
+declare(strict_types=1);
+
 namespace VasilDakov\EcontTest\Unit;
 
 use Fig\Http\Message\RequestMethodInterface;
-use GuzzleHttp\Client;
-use Laminas\Diactoros\RequestFactory;
 use PHPUnit\Framework\TestCase;
 use Psr\Http\Client\ClientInterface;
 use Psr\Http\Message\RequestFactoryInterface;
@@ -14,7 +14,8 @@ use Psr\Http\Message\StreamInterface;
 use VasilDakov\Econt\Configuration;
 use VasilDakov\Econt\Econt;
 use VasilDakov\Econt\Request\GetCitiesRequest;
-use function PHPUnit\Framework\once;
+use VasilDakov\Econt\Request\GetOfficesRequest;
+use VasilDakov\Econt\Request\GetStreetsRequest;
 
 class EcontTest extends TestCase
 {
@@ -147,5 +148,103 @@ class EcontTest extends TestCase
         ;
 
         self::assertJson($econt->getCities(new GetCitiesRequest('BGR')));
+    }
+
+
+    /**
+     * @test
+     */
+    public function itCanGetOffices(): void
+    {
+        $json = file_get_contents('./data/GetOfficesResponse.json');
+
+        $econt = new Econt(
+            configuration: $this->configuration,
+            client: $this->client,
+            factory: $this->factory
+        );
+
+        $this->factory
+            ->expects(self::once())
+            ->method('createRequest')
+            ->with(RequestMethodInterface::METHOD_POST)
+            ->willReturn($this->request)
+        ;
+
+        $this->request
+            ->expects(self::exactly(2))
+            ->method('withAddedHeader')
+            ->willReturnOnConsecutiveCalls($this->request, $this->request)
+        ;
+
+        $this->client
+            ->expects(self::once())
+            ->method('sendRequest')
+            ->with($this->request)
+            ->willReturn($this->response)
+        ;
+
+        $this->response
+            ->expects(self::once())
+            ->method('getBody')
+            ->willReturn($this->stream)
+        ;
+
+        $this->stream
+            ->expects(self::once())
+            ->method('getContents')
+            ->willReturn($json)
+        ;
+
+        self::assertJson($econt->getOffices(new GetOfficesRequest('BGR', '1234')));
+    }
+
+
+    /**
+     * @test
+     */
+    public function itCanGetStreets(): void
+    {
+        $json = file_get_contents('./data/GetStreetsResponse.json');
+
+        $econt = new Econt(
+            configuration: $this->configuration,
+            client: $this->client,
+            factory: $this->factory
+        );
+
+        $this->factory
+            ->expects(self::once())
+            ->method('createRequest')
+            ->with(RequestMethodInterface::METHOD_POST)
+            ->willReturn($this->request)
+        ;
+
+        $this->request
+            ->expects(self::exactly(2))
+            ->method('withAddedHeader')
+            ->willReturnOnConsecutiveCalls($this->request, $this->request)
+        ;
+
+        $this->client
+            ->expects(self::once())
+            ->method('sendRequest')
+            ->with($this->request)
+            ->willReturn($this->response)
+        ;
+
+        $this->response
+            ->expects(self::once())
+            ->method('getBody')
+            ->willReturn($this->stream)
+        ;
+
+        $this->stream
+            ->expects(self::once())
+            ->method('getContents')
+            ->willReturn($json)
+        ;
+
+        self::assertJson($econt->getStreets(new GetStreetsRequest('1234')));
     }
 }

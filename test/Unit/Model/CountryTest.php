@@ -12,11 +12,11 @@ final class CountryTest extends TestCase
     /**
      * @test
      */
-    public function itCanCreateFromArray(): void
+    public function itCanBeCreated(): void
     {
         self::assertInstanceOf(
             Country::class,
-            new Country(null, null, null, null, null, null)
+            new Country()
         );
     }
 
