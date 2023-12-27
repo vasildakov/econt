@@ -14,7 +14,10 @@ final class CountryTest extends TestCase
      */
     public function itCanCreateFromArray(): void
     {
-        self::assertInstanceOf(Country::class, Country::fromArray($this->getData()));
+        self::assertInstanceOf(
+            Country::class,
+            new Country(null, null, null, null, null, null)
+        );
     }
 
     /**
@@ -22,7 +25,15 @@ final class CountryTest extends TestCase
      */
     public function itCanReadPublicReadonly(): void
     {
-        $country = Country::fromArray($this->getData());
+        $data = $this->getData();
+        $country = new Country(
+            id: $data['id'],
+            code2: $data['code2'],
+            code3: $data['code3'],
+            name: $data['name'],
+            nameEn: $data['nameEn'],
+            isEU: $data['isEU']
+        );
 
         self::assertEquals("AT", $country->code2);
         self::assertEquals("AUT", $country->code3);

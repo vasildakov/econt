@@ -31,18 +31,4 @@ readonly class City
         public ?string $postCode
     ) {
     }
-
-    public static function fromArray(array $data = []): self
-    {
-        /*$id       = $data['id'] ?? null;
-        $name     = $data['name'] ?? null;
-        $postCode = $data['postCode'] ?? null;
-
-        return new self($id, $name, $postCode); */
-    }
-
-    public function toArray(): array
-    {
-        return get_object_vars($this);
-    }
 }

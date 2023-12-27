@@ -4,15 +4,18 @@ namespace VasilDakov\EcontTest\Model;
 
 use PHPUnit\Framework\TestCase;
 use VasilDakov\Econt\Model\City;
+use VasilDakov\Econt\Serializer\SerializerFactory;
 
 class CityTest extends TestCase
 {
     /**
      * @test
      */
-    public function itCanBeCreatedFromArray(): void
+    public function itCanBeCreatedDeserialized(): void
     {
-        $city = City::fromArray($this->getData());
+        $json = json_encode($this->getData());
+        $serializer = (new SerializerFactory())();
+        $city = $serializer->deserialize($json, City::class, 'json');
 
         self::assertInstanceOf(City::class, $city);
     }
@@ -22,25 +25,11 @@ class CityTest extends TestCase
      */
     public function itCanBeCreatedFromEmptyArray(): void
     {
-        $city = City::fromArray([]);
-
-        self::assertInstanceOf(City::class, $city);
+        self::assertInstanceOf(
+            City::class,
+            new City(null, null, null, null, null, null, null));
     }
 
-
-    /**
-     * @test
-     */
-    public function itCanBeConvertedToArray(): void
-    {
-        $city = City::fromArray([]);
-        $array = $city->toArray();
-
-        self::assertIsArray($array);
-        self::assertArrayHasKey('id', $array);
-        self::assertArrayHasKey('name', $array);
-        self::assertArrayHasKey('postCode', $array);
-    }
 
 
     private function getData(): array
