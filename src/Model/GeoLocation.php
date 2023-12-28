@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace VasilDakov\Econt\Model;
 
 use JMS\Serializer\Annotation as Serializer;

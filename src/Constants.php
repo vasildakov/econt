@@ -4,9 +4,27 @@ namespace VasilDakov\Econt;
 
 final class Constants
 {
+    public const ID                               = 'id';
+    public const NAME                             = 'name';
+    public const NUM                              = 'num';
+    public const CLIENT                           = 'client';
+    public const MONEY_TRANSFER                   = 'moneyTransfer';
+    public const OFFICE_CODE                      = 'officeCode';
+    public const IBAN                             = 'IBAN';
+    public const BIC                              = 'BIC';
+    public const BANK_CURRENCY                    = 'bankCurrency';
+    public const EXPRESS                          = 'express';
+    public const METHOD                           = 'method';
+    public const TYPE                             = 'type';
+    public const MESSAGE                          = 'message';
+    public const FIELDS                           = 'fields';
+    public const INNER_ERRORS                     = 'innerErrors';
+    public const NAME_EN                          = 'nameEn';
     public const CITY                             = 'city';
     public const CITY_ID                          = 'cityID';
     public const ADDRESS                          = 'address';
+    public const PHONES                           = 'phones';
+    public const EMAIL                            = 'email';
     public const DATE                             = 'date';
     public const COUNTRY_CODE                     = 'countryCode';
     public const SHIPMENT_TYPE                    = 'shipmentType';

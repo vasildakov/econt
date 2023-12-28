@@ -11,7 +11,9 @@ use VasilDakov\Econt\Econt;
 use VasilDakov\Econt\Request\GetCitiesRequest;
 use VasilDakov\Econt\Request\GetOfficesRequest;
 use VasilDakov\Econt\Response\GetCitiesResponseFactory;
+use VasilDakov\Econt\Response\GetClientProfilesResponse;
 use VasilDakov\Econt\Response\GetOfficesResponseFactory;
+use VasilDakov\Econt\Serializer\SerializerFactory;
 
 chdir(dirname(__DIR__));
 
@@ -37,6 +39,12 @@ $client = new Client();
 $factory = new RequestFactory();
 
 $econt = new Econt($configuration, $client, $factory);
+$json = $econt->getClientProfiles();
+
+$serilizer = (new SerializerFactory())();
+$object = $serilizer->deserialize($json, GetClientProfilesResponse::class, 'json');
+dump($object);
+
 
 /*
 $json = $econt->getCities(new GetCitiesRequest(countryCode: 'BGR'));
@@ -45,7 +53,7 @@ dump($object->findById(41));
 dump($object->findByName('София'));
 */
 
-$json = $econt->getOffices(new GetOfficesRequest(countryCode: 'BGR', cityId: '39'));
+/* $json = $econt->getOffices(new GetOfficesRequest(countryCode: 'BGR', cityId: '39'));
 $response = (new GetOfficesResponseFactory())($json);
-
 dump($response);
+*/
