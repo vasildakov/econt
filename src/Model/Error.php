@@ -32,8 +32,6 @@ final readonly class Error
             Constants::MESSAGE => $this->message,
             Constants::FIELDS => $this->fields,
             Constants::INNER_ERRORS => $this->innerErrors
-
-
         ];
     }
 }
