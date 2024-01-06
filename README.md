@@ -100,6 +100,6 @@ The available API services can be found [here](https://ee.econt.com/services/).
 
 ## License
 
-Code released under [the MIT license](https://github.com/vasildakov/postcode/blob/master/LICENSE)
+Code released under [the MIT license](https://github.com/vasildakov/econt/blob/main/LICENSE)
 
 http://ee.econt.com/services/
