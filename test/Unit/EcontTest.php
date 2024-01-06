@@ -247,4 +247,35 @@ class EcontTest extends TestCase
 
         self::assertJson($econt->getStreets(new GetStreetsRequest('1234')));
     }
+
+    /**
+     * @test
+     * @dataProvider servicesDataProvider
+     */
+    public function itImplementsApiServices(string $method, bool $expected): void
+    {
+        self::assertEquals($expected, $this->methodExists($method));
+
+    }
+
+    private function methodExists(string $method): bool
+    {
+        return method_exists(Econt::class, $method);
+    }
+
+    private function servicesDataProvider(): array
+    {
+        return [
+            'NomenclaturesService::getCountries' => ['getCountries', true],
+            'NomenclaturesService::getCities'    => ['getCities', true],
+            'NomenclaturesService::getOffices'   => ['getOffices', true],
+            'NomenclaturesService::getStreets'   => ['getStreets', true],
+            'NomenclaturesService::getQuarters'  => ['getQuarters', true],
+
+            // not implemented
+            // 'AddressService::validateAddress'    => ['validateAddress', true],
+            // 'AddressService::addressServiceTimes'=> ['addressServiceTimes', true],
+            // 'AddressService::getNearestOffices'  => ['getNearestOffices', true],
+        ];
+    }
 }

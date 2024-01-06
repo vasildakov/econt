@@ -23,7 +23,7 @@ interface EcontInterface
 
     public function getStreets(Request\GetStreetsRequest $object): string;
 
-    public function getQuarters(array $data): string;
+    public function getQuarters(Request\GetQuartersRequest $object): string;
 
 
     public function createLabel(array $data): string;

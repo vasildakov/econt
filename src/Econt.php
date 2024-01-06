@@ -109,9 +109,17 @@ final class Econt implements EcontInterface
     }
 
 
-    public function getQuarters(array $data): string
+    public function getQuarters(Request\GetQuartersRequest $object): string
     {
-        return '';
+        $request = $this->createRequest(
+            RequestMethodInterface::METHOD_POST,
+            self::API_URL . '/ee/services/Nomenclatures/NomenclaturesService.GetQuarters.json',
+            $object->toArray()
+        );
+
+        $response = $this->client->sendRequest($request);
+
+        return $response->getBody()->getContents();
     }
 
 

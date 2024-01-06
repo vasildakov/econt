@@ -10,9 +10,13 @@ use VasilDakov\Econt\Configuration;
 use VasilDakov\Econt\Econt;
 use VasilDakov\Econt\Request\GetCitiesRequest;
 use VasilDakov\Econt\Request\GetOfficesRequest;
+use VasilDakov\Econt\Request\GetQuartersRequest;
+use VasilDakov\Econt\Request\GetStreetsRequest;
 use VasilDakov\Econt\Response\GetCitiesResponseFactory;
 use VasilDakov\Econt\Response\GetClientProfilesResponse;
 use VasilDakov\Econt\Response\GetOfficesResponseFactory;
+use VasilDakov\Econt\Response\GetQuartersResponse;
+use VasilDakov\Econt\Response\GetStreetsResponse;
 use VasilDakov\Econt\Serializer\SerializerFactory;
 
 chdir(dirname(__DIR__));
@@ -42,8 +46,8 @@ $econt = new Econt($configuration, $client, $factory);
 $json = $econt->getClientProfiles();
 
 $serilizer = (new SerializerFactory())();
-$object = $serilizer->deserialize($json, GetClientProfilesResponse::class, 'json');
-dump($object);
+//$object = $serilizer->deserialize($json, GetClientProfilesResponse::class, 'json');
+//dump($object);
 
 
 /*
@@ -57,3 +61,11 @@ dump($object->findByName('София'));
 $response = (new GetOfficesResponseFactory())($json);
 dump($response);
 */
+
+$json = $econt->getStreets(new GetStreetsRequest(cityId: '41'));
+$object = $serilizer->deserialize($json, GetStreetsResponse::class, 'json');
+
+//$json = $econt->getQuarters(new GetQuartersRequest(cityId: '41'));
+//$object = $serilizer->deserialize($json, GetQuartersResponse::class, 'json');
+
+dump($object->getStreets()->first());
