@@ -1,7 +1,8 @@
 <?php
+
 declare(strict_types=1);
 
-namespace Model;
+namespace VasilDakov\EcontTest\Unit\Model;
 
 use PHPUnit\Framework\TestCase;
 use VasilDakov\Econt\Model\Office;

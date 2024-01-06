@@ -1,6 +1,7 @@
 # Econt API Client [WIP]
 
-![example workflow](https://github.com/vasildakov/econt/actions/workflows/php.yml/badge.svg)
+[![Latest Stable Version](http://poser.pugx.org/vasildakov/econt/v)](https://packagist.org/packages/vasildakov/econt)
+![build](https://github.com/vasildakov/econt/actions/workflows/php.yml/badge.svg)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vasildakov/econt/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/vasildakov/econt/?branch=main)
 [![Code Coverage](https://scrutinizer-ci.com/g/vasildakov/econt/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/vasildakov/econt/?branch=main)
 [![Build Status](https://scrutinizer-ci.com/g/vasildakov/econt/badges/build.png?b=main)](https://scrutinizer-ci.com/g/vasildakov/econt/build-status/main)
@@ -100,3 +101,5 @@ The available API services can be found [here](https://ee.econt.com/services/).
 ## License
 
 Code released under [the MIT license](https://github.com/vasildakov/postcode/blob/master/LICENSE)
+
+http://ee.econt.com/services/
