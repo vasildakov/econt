@@ -11,4 +11,14 @@ final readonly class GetClientProfilesResponse
 {
     #[Serializer\Type("ArrayCollection<VasilDakov\Econt\Model\ProfilesResponseElement>")]
     private ArrayCollection $profiles;
+
+    public function __construct()
+    {
+        $this->profiles = new ArrayCollection();
+    }
+
+    public function getProfiles(): ArrayCollection
+    {
+        return $this->profiles;
+    }
 }
