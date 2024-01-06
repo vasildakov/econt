@@ -1,0 +1,29 @@
+<?php declare(strict_types=1);
+
+namespace Model;
+
+use PHPUnit\Framework\TestCase;
+use VasilDakov\Econt\Model\Country;
+use VasilDakov\Econt\Model\Office;
+
+/**
+ * Class OfficeTest
+ *
+ * @author Valentin Valkanov <valentinvalkanof@gmail.com>
+ * @copyright
+ * @version
+ */
+class OfficeTest extends TestCase
+{
+    /**
+     * @test
+     */
+    public function itCanBeCreated(): void
+    {
+        self::assertInstanceOf(
+            Office::class,
+            new Office()
+        );
+    }
+
+}
