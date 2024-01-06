@@ -1,9 +1,9 @@
-<?php declare(strict_types=1);
+<?php
+declare(strict_types=1);
 
 namespace Model;
 
 use PHPUnit\Framework\TestCase;
-use VasilDakov\Econt\Model\Country;
 use VasilDakov\Econt\Model\Office;
 
 /**
@@ -13,7 +13,7 @@ use VasilDakov\Econt\Model\Office;
  * @copyright
  * @version
  */
-class OfficeTest extends TestCase
+final class OfficeTest extends TestCase
 {
     /**
      * @test
@@ -25,5 +25,4 @@ class OfficeTest extends TestCase
             new Office()
         );
     }
-
 }
