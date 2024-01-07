@@ -15,11 +15,7 @@ class CityTest extends TestCase
      */
     public function itCanBeCreated(): void
     {
-        $json = file_get_contents('./data/City.json');
-        $array = json_decode($json, true);
-
         $city = new City();
-
 
         self::assertInstanceOf(City::class, $city);
     }
@@ -34,14 +30,5 @@ class CityTest extends TestCase
         $city = $serializer->deserialize($json, City::class, 'json');
 
         self::assertInstanceOf(City::class, $city);
-    }
-
-    private function getData(): array
-    {
-        return [
-            "id" => 204964,
-            "name" => "Sofia",
-            "postCode" => "1000",
-        ];
     }
 }

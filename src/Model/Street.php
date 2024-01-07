@@ -22,7 +22,6 @@ final readonly class Street
         #[Serializer\Type('string')]
         public ?string $nameEn = null,
     ) {
-
     }
 
     public function toArray(): array

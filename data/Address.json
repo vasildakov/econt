@@ -1,0 +1,46 @@
+{
+  "id": null,
+  "city": {
+    "id": 32,
+    "country": {
+      "id": 1033,
+      "code2": "BGR",
+      "code3": null,
+      "name": "България",
+      "nameEn": "Bulgaria",
+      "isEU": true
+    },
+    "postCode": "5800",
+    "name": "Плевен",
+    "nameEn": "Pleven",
+    "regionName": "Плевен",
+    "regionNameEn": "Pleven",
+    "phoneCode": null,
+    "location": {
+      "latitude": 43.4185157,
+      "longitude": 24.612576,
+      "confidence": 3
+    },
+    "expressCityDeliveries": null,
+    "monday": null,
+    "tuesday": null,
+    "wednesday": null,
+    "thursday": null,
+    "friday": null,
+    "saturday": null,
+    "sunday": null,
+    "serviceDays": null,
+    "zoneId": null,
+    "zoneName": null,
+    "zoneNameEn": null
+  },
+  "fullAddress": null,
+  "fullAddressEn": null,
+  "quarter": null,
+  "street": "ул. Княз Александър Батенберг",
+  "num": "7",
+  "other": "",
+  "location": null,
+  "zip": null,
+  "hezid": null
+}
