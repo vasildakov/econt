@@ -26,7 +26,7 @@ $ composer require vasildakov/econt
 Running unit tests:
 
 ```
-$ ./vendor/bin/phpunit --coverage-html ./build/coverage 
+$ ./vendor/bin/phpunit --coverage-html ./build/coverage --testsuite Unit
 ```
 
 
